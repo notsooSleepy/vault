@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "86da3094934b0853",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbde148c31dbe945",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ac1dc34f83a7284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linux"
+            }
+          },
+          {
+            "id": "8dcb7454f8c904c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nixos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nixos"
+            }
+          },
+          {
+            "id": "bd5915bb6981041e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "install vm client.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "install vm client"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0f3be8bc44a5244f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3c7cc72a6e62379",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "038095c92dfad421",
+    "type": "split",
+    "children": [
+      {
+        "id": "6469a3174b3f7b19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "170ccbcaaae552d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fedfff149a6942f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a7229c5f46a1122",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36adca8208cb8685",
+    "type": "split",
+    "children": [
+      {
+        "id": "67f3db703626b6e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8d67365a489dab4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "install vm client.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for install vm client"
+            }
+          },
+          {
+            "id": "e1c25b030eb4875b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "ff5fb9c629318b8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "43844847040dd8a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bd5915bb6981041e",
+  "lastOpenFiles": [
+    "Pasted image 20250106163433.png",
+    "Nixos.md",
+    "install vm client.md",
+    "linux.md",
+    "Untitled.canvas",
+    "Recording 20250106155423.m4a",
+    "Recording 20250106155412.m4a",
+    "Recording 20250106155355.m4a",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
