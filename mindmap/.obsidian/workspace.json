@@ -11,20 +11,10 @@
             "id": "4ac1dc34f83a7284",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Todos.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Todos"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -183,15 +173,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "170ccbcaaae552d1",
+  "active": "4ac1dc34f83a7284",
   "lastOpenFiles": [
-    "install vm client.md",
+    "Nixos.md",
     "Todos.md",
+    "install vm client.md",
     "linux.md",
     "attachments/Pasted image 20250107191409.png",
     "attachments",
     "attachments/Pasted image 20250106163433.png",
-    "Nixos.md",
     "attachments/Pasted image 20250106163433.png",
     "attachments/Pasted image 20250107172410.png",
     "Untitled.canvas",
