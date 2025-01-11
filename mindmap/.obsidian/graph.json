@@ -5,18 +5,33 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:linuxname",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 0.9421875,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.380208333333333,
-  "repelStrength": 13.5416666666667,
-  "linkStrength": 0.786458333333333,
-  "linkDistance": 94,
-  "scale": 0.4444444444444441,
-  "close": true
+  "centerStrength": 0.734375,
+  "repelStrength": 19.8958333333333,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.4444444444444432,
+  "close": false
 }

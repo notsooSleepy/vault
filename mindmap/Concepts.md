@@ -2,10 +2,5 @@
 
 
 
-
-[[kernel]]
-[[boot loader]]
-[[daemons]]
+[[startup]]
 [[filesystems]]
-[[X window]]
-[[wayland]]
