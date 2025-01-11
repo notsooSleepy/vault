@@ -4,12 +4,6 @@ kanban-plugin: board
 
 ---
 
-## lazygit
-
-- [ ] do wdrożenia
-- [ ] lazygit
-
-
 ## bash
 
 - [ ] więcej mocniej szybciej
@@ -19,6 +13,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false]}
 ```
 %%

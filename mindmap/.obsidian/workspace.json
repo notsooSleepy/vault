@@ -11,6 +11,46 @@
             "id": "4ac1dc34f83a7284",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODOS.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "TODOS"
+            }
+          },
+          {
+            "id": "8f5df77f6b0e035b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daemons.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "daemons"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "89cbbd8b0e7ef944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d728a4c31622fcac",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -173,12 +213,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ac1dc34f83a7284",
+  "active": "8f5df77f6b0e035b",
   "lastOpenFiles": [
-    "Nixos.md",
-    "Todos.md",
-    "install vm client.md",
-    "linux.md",
+    "Concepts.md",
+    "daemons.md",
+    "sevices/daemons 1.md",
+    "sevices/daemons.md",
+    "sevices",
+    "LINUX.md",
+    "Fedora.md",
+    "filesystems.md",
+    "Btrfs.md",
+    "kernel.md",
+    "SUSE.md",
+    "RHEL.md",
+    "SLES.md",
+    "openSUSE.md",
+    "Distros.md",
+    "CentOS.md",
+    "Debian.md",
+    "TODOS.md",
+    "GIT.md",
+    "Ubuntu.md",
+    "git submodule.md",
+    "git rebase -i.md",
+    "Obsidian help.md",
+    "1.md",
+    "git cherry-pick.md",
+    "git reflog.md",
+    "git branch.md",
+    "attachments/Pasted image 20250111122244.png",
+    "attachments/Pasted image 20250111122049.png",
+    "attachments/Pasted image 20250111122007.png",
+    "attachments/Pasted image 20250111121850.png",
+    "attachments/Pasted image 20250111121624.png",
     "attachments/Pasted image 20250107191409.png",
     "attachments",
     "attachments/Pasted image 20250106163433.png",
@@ -187,8 +255,6 @@
     "Untitled.canvas",
     "Recording 20250106155423.m4a",
     "Recording 20250106155412.m4a",
-    "Recording 20250106155355.m4a",
-    "create a link.md",
-    "Welcome.md"
+    "Recording 20250106155355.m4a"
   ]
 }
