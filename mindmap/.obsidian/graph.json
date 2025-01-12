@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:linuxname",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#topic  ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -32,6 +32,6 @@
   "repelStrength": 19.8958333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4444444444444432,
-  "close": false
+  "scale": 0.2962962962962953,
+  "close": true
 }

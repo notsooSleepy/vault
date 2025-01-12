@@ -2,4 +2,4 @@
 
 [[GRUB]]
 [[Isolinux]]
-[[dasuboot]]
+[[Das U-Boot]]

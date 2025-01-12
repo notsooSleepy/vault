@@ -8,55 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ac1dc34f83a7284",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POST.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "POST"
-            }
-          },
-          {
             "id": "8abd00cafa25bbe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bootloader.md",
+                "file": "LINUX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bootloader"
+              "title": "LINUX"
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       },
       {
-        "id": "89cbbd8b0e7ef944",
+        "id": "0d39620ada653543",
         "type": "tabs",
         "children": [
           {
-            "id": "d728a4c31622fcac",
+            "id": "759c371e2ecde9e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "systemd.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "systemd"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -215,8 +195,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8abd00cafa25bbe6",
+  "active": "759c371e2ecde9e4",
   "lastOpenFiles": [
+    "git merge.md",
+    "startup.md",
+    "LINUX.md",
+    "templates/note.md",
+    "folder structure.md",
+    "Concepts.md",
+    "TODOS.md",
+    "Distros.md",
+    "Untitled Kanban.md",
+    "Das U-Boot.md",
+    "install vm client.md",
+    "templates",
+    "POST.md",
+    "bootloader.md",
     "systemd.md",
     "init.md",
     "attachments/Recording 20250111165835.m4a",
@@ -228,24 +222,11 @@
     "Obsidian help.md",
     "GRUB.md",
     "initramfs.md",
-    "LINUX.md",
-    "bootloader.md",
-    "dasuboot.md",
-    "POST.md",
     "UEFI.md",
     "MBR.md",
     "Isolinux.md",
-    "startup.md",
-    "Concepts.md",
     "daemons.md",
-    "TODOS.md",
-    "Debian.md",
-    "sevices/daemons 1.md",
-    "sevices/daemons.md",
     "sevices",
-    "Fedora.md",
-    "filesystems.md",
-    "Btrfs.md",
     "attachments/Pasted image 20250111122244.png",
     "attachments/Pasted image 20250111122049.png",
     "attachments/Pasted image 20250111122007.png",
