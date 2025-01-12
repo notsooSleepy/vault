@@ -7,7 +7,7 @@ aliases:
 # LINUX
 
 # References
-[[Distros]]
+[[distros]]
 [[startup]]
 [[filesystems]]
 [[folder structure]]

@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 2025-01-12 10:14
-# Distros
+# distros
 
 # References
 [[Nixos]]
