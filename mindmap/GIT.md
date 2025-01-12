@@ -1,7 +1,12 @@
+---
+tags:
+  - mainTopic
+aliases:
+---
+2025-01-12 10:19
+# GIT
 
-
-
-
+# References
 [[git diff]]
 [[git add]]
 [[git log]]

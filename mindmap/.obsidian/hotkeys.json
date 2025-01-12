@@ -35,14 +35,6 @@
   ],
   "editor:insert-link": [],
   "editor:open-search-replace": [],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Backspace"
-    }
-  ],
   "editor:focus-left": [
     {
       "modifiers": [
@@ -67,5 +59,14 @@
       "key": ";"
     }
   ],
-  "markdown:add-metadata-property": []
+  "markdown:add-metadata-property": [],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Backspace"
+    }
+  ]
 }

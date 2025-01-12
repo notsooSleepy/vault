@@ -3,7 +3,7 @@ tags:
   - command
 aliases:
 ---
-2025-01-12 10:19
-# git add
+2025-01-12 10:18
+# mount
 
 # References
