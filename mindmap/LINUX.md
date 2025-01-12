@@ -10,4 +10,4 @@ aliases:
 [[distros]]
 [[startup]]
 [[filesystems]]
-[[folder structure]]
+[[FMS Filesystem Hierarchy Standard]]

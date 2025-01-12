@@ -11,3 +11,4 @@ aliases:
 [[Debian]]
 [[RHEL]]
 [[SUSE]]
+[[k3s]]
