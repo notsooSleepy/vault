@@ -11,20 +11,15 @@
             "id": "4ac1dc34f83a7284",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "split-diff-view",
               "state": {
-                "file": "Todos.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "aFile": "mindmap/.obsidian/workspace.json",
+                "bFile": "mindmap/.obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-trello",
-              "title": "Todos"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -166,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,15 +178,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "170ccbcaaae552d1",
+  "active": "4ac1dc34f83a7284",
   "lastOpenFiles": [
-    "install vm client.md",
-    "Todos.md",
     "linux.md",
+    "Nixos.md",
+    "Todos.md",
+    "install vm client.md",
     "attachments/Pasted image 20250107191409.png",
     "attachments",
     "attachments/Pasted image 20250106163433.png",
-    "Nixos.md",
     "attachments/Pasted image 20250106163433.png",
     "attachments/Pasted image 20250107172410.png",
     "Untitled.canvas",
