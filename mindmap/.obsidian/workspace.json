@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fbde148c31dbe945",
+        "id": "3c4956ab700f0716",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac1dc34f83a7284",
+            "id": "a8711918a8d53715",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "mindmap/.obsidian/plugins/obsidian-git/data.json",
-                "bFile": "mindmap/.obsidian/plugins/obsidian-git/data.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
