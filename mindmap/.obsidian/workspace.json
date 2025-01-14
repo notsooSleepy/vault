@@ -4,30 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "fbde148c31dbe945",
+        "id": "c02d1bf52d787d3a",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac1dc34f83a7284",
+            "id": "74d502360018a167",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Todos.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "FHS Filesystem Hierarchy Standard.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Todos"
+              "icon": "lucide-file",
+              "title": "FHS Filesystem Hierarchy Standard"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -185,20 +181,52 @@
   },
   "active": "170ccbcaaae552d1",
   "lastOpenFiles": [
+    "var.md",
+    "FHS Filesystem Hierarchy Standard.md",
+    "TODOS.md",
+    "etc.md",
+    "fdisk.md",
+    "init.md",
+    "fsck.md",
+    "UEFI.md",
+    "k3s.md",
+    "distros.md",
+    "LINUX.md",
+    "zettelkasten.md",
+    "Excalidraw/Drawing 2025-01-12 10.40.53.excalidraw.md",
+    "attachments/Pasted image 20250112104021.png",
+    "attachments/Pasted image 20250112104953.png",
+    "Excalidraw",
+    "git merge.md",
+    "Nixos.md",
     "install vm client.md",
-    "Todos.md",
-    "linux.md",
+    "nixos-rebuild.md",
+    "templates/note.md",
+    "sudo nixos-rebuild switch --flake ~/nixos.md",
+    "sudo nixos-rebuild switch --flake ~",
+    "GIT.md",
+    "git submodule.md",
+    "git branch.md",
+    "git checkout.md",
+    "git reflog.md",
+    "git reset.md",
+    "git cherry-pick.md",
+    "templates",
+    "attachments/Recording 20250111165835.m4a",
+    "sbin",
+    "sevices",
+    "attachments/Pasted image 20250111122244.png",
+    "attachments/Pasted image 20250111122049.png",
+    "attachments/Pasted image 20250111122007.png",
+    "attachments/Pasted image 20250111121850.png",
+    "attachments/Pasted image 20250111121624.png",
     "attachments/Pasted image 20250107191409.png",
     "attachments",
     "attachments/Pasted image 20250106163433.png",
-    "Nixos.md",
     "attachments/Pasted image 20250106163433.png",
-    "attachments/Pasted image 20250107172410.png",
     "Untitled.canvas",
     "Recording 20250106155423.m4a",
     "Recording 20250106155412.m4a",
-    "Recording 20250106155355.m4a",
-    "create a link.md",
-    "Welcome.md"
+    "Recording 20250106155355.m4a"
   ]
 }

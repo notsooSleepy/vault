@@ -1,7 +1,8 @@
 {
-  "vimMode": true,
+  "vimMode": false,
   "tabSize": 2,
   "useTab": true,
   "showLineNumber": true,
-  "attachmentFolderPath": "/attachments"
+  "attachmentFolderPath": "/attachments",
+  "alwaysUpdateLinks": true
 }
