@@ -13,13 +13,13 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "mindmap/.obsidian/workspace.json",
-                "bFile": "mindmap/.obsidian/workspace.json",
+                "aFile": "mindmap/.obsidian/plugins/obsidian-git/data.json",
+                "bFile": "mindmap/.obsidian/plugins/obsidian-git/data.json",
                 "aRef": "HEAD",
                 "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -178,22 +178,50 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4ac1dc34f83a7284",
+  "active": "6017e0620c2450c6",
   "lastOpenFiles": [
-    "linux.md",
-    "Nixos.md",
-    "Todos.md",
-    "install vm client.md",
+    "conflict-files-obsidian-git.md",
+    "zettelkasten.md",
+    "var.md",
+    "udev.md",
+    "templates/note.md",
+    "templates",
+    "systemd.md",
+    "startup.md",
+    "openSUSE.md",
+    "nixos-rebuild.md",
+    "mount.md",
+    "kernel.md",
+    "k3s.md",
+    "initramfs.md",
+    "init.md",
+    "git submodule.md",
+    "git reset.md",
+    "git reflog.md",
+    "git rebase.md",
+    "git rebase -i.md",
+    "git mergetool.md",
+    "git merge.md",
+    "git log.md",
+    "git diff.md",
+    "git cherry-pick.md",
+    "git checkout.md",
+    "git branch.md",
+    "attachments/Pasted image 20250112104953.png",
+    "attachments/Pasted image 20250112104021.png",
+    "attachments/Pasted image 20250111122244.png",
+    "attachments/Pasted image 20250111122049.png",
+    "attachments/Pasted image 20250111122007.png",
+    "attachments/Pasted image 20250111121850.png",
+    "attachments/Pasted image 20250111121624.png",
+    "Excalidraw",
     "attachments/Pasted image 20250107191409.png",
     "attachments",
     "attachments/Pasted image 20250106163433.png",
     "attachments/Pasted image 20250106163433.png",
-    "attachments/Pasted image 20250107172410.png",
     "Untitled.canvas",
     "Recording 20250106155423.m4a",
     "Recording 20250106155412.m4a",
-    "Recording 20250106155355.m4a",
-    "create a link.md",
-    "Welcome.md"
+    "Recording 20250106155355.m4a"
   ]
 }

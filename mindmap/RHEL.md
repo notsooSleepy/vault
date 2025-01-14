@@ -1,0 +1,6 @@
+
+
+- yum package manager
+
+
+[[Fedora]]
