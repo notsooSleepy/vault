@@ -1,3 +1,10 @@
+---
+tags:
+  - topic
+aliases:
+---
+2025-01-12 10:27
+# install vm client
 https://www.reddit.com/r/NixOS/comments/177wcyi/best_way_to_run_a_vm_on_nixos/
 poniżej config do vmów na nixos // dodatkowo instaluj qemu
 ```nix
@@ -36,3 +43,4 @@ poniżej config do vmów na nixos // dodatkowo instaluj qemu
 pic dotyczy protokołu spice link też
 ![[Pasted image 20250106163433.png]]
 https://www.spice-space.org/download.html
+# References
