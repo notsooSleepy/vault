@@ -177,7 +177,6 @@
   "lastOpenFiles": [
     "linux.md",
     "Todos.md",
-    "conflict-files-obsidian-git.md",
     "zettelkasten.md",
     "var.md",
     "udev.md",
@@ -202,6 +201,7 @@
     "git log.md",
     "git diff.md",
     "git cherry-pick.md",
+    "git checkout.md",
     "attachments/Pasted image 20250112104953.png",
     "attachments/Pasted image 20250112104021.png",
     "attachments/Pasted image 20250111122244.png",
