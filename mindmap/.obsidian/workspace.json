@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8457c8ace26f513",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f9c507812b24152c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+        "id": "3c4956ab700f0716",
+
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,11 +156,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -180,7 +169,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "f9c507812b24152c",
@@ -203,15 +193,10 @@
     "k3s.md",
     "distros.md",
     "LINUX.md",
+
     "zettelkasten.md",
-    "Excalidraw/Drawing 2025-01-12 10.40.53.excalidraw.md",
-    "attachments/Pasted image 20250112104021.png",
-    "attachments/Pasted image 20250112104953.png",
-    "Excalidraw",
-    "git merge.md",
-    "Nixos.md",
-    "install vm client.md",
-    "nixos-rebuild.md",
+    "var.md",
+    "udev.md",
     "templates/note.md",
     "sudo nixos-rebuild switch --flake ~/nixos.md",
     "sudo nixos-rebuild switch --flake ~",
@@ -219,11 +204,37 @@
     "attachments/Recording 20250111165835.m4a",
     "sbin",
     "sevices",
+    "templates",
+    "systemd.md",
+    "startup.md",
+    "openSUSE.md",
+    "nixos-rebuild.md",
+    "mount.md",
+    "kernel.md",
+    "k3s.md",
+    "initramfs.md",
+    "init.md",
+    "git submodule.md",
+    "git reset.md",
+    "git reflog.md",
+    "git rebase.md",
+    "git rebase -i.md",
+    "git mergetool.md",
+    "git merge.md",
+    "git log.md",
+    "git diff.md",
+    "git cherry-pick.md",
+    "git checkout.md",
+    "git branch.md",
+    "git add.md",
+    "attachments/Pasted image 20250112104953.png",
+    "attachments/Pasted image 20250112104021.png",
     "attachments/Pasted image 20250111122244.png",
     "attachments/Pasted image 20250111122049.png",
     "attachments/Pasted image 20250111122007.png",
     "attachments/Pasted image 20250111121850.png",
     "attachments/Pasted image 20250111121624.png",
+    "Excalidraw",
     "attachments/Pasted image 20250107191409.png",
     "attachments",
     "attachments/Pasted image 20250106163433.png",
