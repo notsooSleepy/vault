@@ -5,16 +5,7 @@
     "children": [
       {
         "id": "3c4956ab700f0716",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a8711918a8d53715",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+
             }
           }
         ]
@@ -48,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:child",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +60,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "install vm client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +90,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for install vm client"
+              "title": "Backlinks"
             }
           },
           {
@@ -108,12 +99,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -150,6 +140,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "da799614aa0b0aef",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 4
@@ -173,12 +173,37 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6017e0620c2450c6",
+  "active": "f9c507812b24152c",
   "lastOpenFiles": [
+    "tmp.md",
+    "FHS Filesystem Hierarchy Standard.md",
+    "dev.md",
+    "TODOS.md",
+    "etc.md",
+    "var.md",
+    "usr.md",
+    "opt.md",
+    "hdparam.md",
+    "dd.md",
+    "fdisk.md",
+    "Roadmap.md",
+    "init.md",
+    "fsck.md",
+    "UEFI.md",
+    "k3s.md",
+    "distros.md",
+    "LINUX.md",
+
     "zettelkasten.md",
     "var.md",
     "udev.md",
     "templates/note.md",
+    "sudo nixos-rebuild switch --flake ~/nixos.md",
+    "sudo nixos-rebuild switch --flake ~",
+    "templates",
+    "attachments/Recording 20250111165835.m4a",
+    "sbin",
+    "sevices",
     "templates",
     "systemd.md",
     "startup.md",

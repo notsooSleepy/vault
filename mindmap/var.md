@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - baby
 aliases:
 ---
 2025-01-12 19:17
