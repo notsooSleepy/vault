@@ -4,8 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3c4956ab700f0716",
-
+        "id": "ed52f38480915ef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a45472878178a87",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "mindmap/.obsidian/workspace.json",
+                "bFile": "mindmap/.obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -39,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:child",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "install vm client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for install vm client"
             }
           },
           {
@@ -99,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -140,16 +155,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "da799614aa0b0aef",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
           }
         ],
         "currentTab": 4
@@ -173,37 +178,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f9c507812b24152c",
+  "active": "0a45472878178a87",
   "lastOpenFiles": [
-    "tmp.md",
-    "FHS Filesystem Hierarchy Standard.md",
-    "dev.md",
-    "TODOS.md",
-    "etc.md",
-    "var.md",
+    "dd.md",
     "usr.md",
+    "tmp.md",
     "opt.md",
     "hdparam.md",
-    "dd.md",
-    "fdisk.md",
+    "dev.md",
     "Roadmap.md",
-    "init.md",
-    "fsck.md",
-    "UEFI.md",
-    "k3s.md",
-    "distros.md",
-    "LINUX.md",
-
     "zettelkasten.md",
     "var.md",
     "udev.md",
     "templates/note.md",
-    "sudo nixos-rebuild switch --flake ~/nixos.md",
-    "sudo nixos-rebuild switch --flake ~",
-    "templates",
-    "attachments/Recording 20250111165835.m4a",
-    "sbin",
-    "sevices",
     "templates",
     "systemd.md",
     "startup.md",
@@ -220,13 +207,6 @@
     "git rebase.md",
     "git rebase -i.md",
     "git mergetool.md",
-    "git merge.md",
-    "git log.md",
-    "git diff.md",
-    "git cherry-pick.md",
-    "git checkout.md",
-    "git branch.md",
-    "git add.md",
     "attachments/Pasted image 20250112104953.png",
     "attachments/Pasted image 20250112104021.png",
     "attachments/Pasted image 20250111122244.png",
