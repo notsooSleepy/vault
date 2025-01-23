@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ed52f38480915ef6",
+        "id": "02dac8c684471d19",
         "type": "tabs",
         "children": [
           {
-            "id": "0a45472878178a87",
+            "id": "a0d8d177706949df",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "mindmap/.obsidian/workspace.json",
-                "bFile": "mindmap/.obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "dd.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "dd"
             }
           }
         ]
@@ -178,9 +178,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0a45472878178a87",
+  "active": "a0d8d177706949df",
   "lastOpenFiles": [
+    "attachments/Recording 20250122175427.m4a",
     "dd.md",
+    "attachments/Recording 20250122175123.m4a",
     "usr.md",
     "tmp.md",
     "opt.md",
@@ -206,7 +208,6 @@
     "git reflog.md",
     "git rebase.md",
     "git rebase -i.md",
-    "git mergetool.md",
     "attachments/Pasted image 20250112104953.png",
     "attachments/Pasted image 20250112104021.png",
     "attachments/Pasted image 20250111122244.png",
