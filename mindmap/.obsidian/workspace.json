@@ -11,10 +11,24 @@
             "id": "a0d8d177706949df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Roadmap"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:command",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Roadmap"
             }
           },
           {
@@ -124,7 +138,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -136,10 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "install vm client.md"
+                "file": "Roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of install vm client"
+              "title": "Outline of Roadmap"
             }
           },
           {
@@ -174,37 +193,38 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "170ccbcaaae552d1",
+  "active": "6017e0620c2450c6",
   "lastOpenFiles": [
+    "Obsidian help.md",
+    "Isolinux.md",
+    "bootloader.md",
+    "Btrfs.md",
+    "CentOS.md",
+    "Das U-Boot.md",
     "dd.md",
+    "Debian.md",
+    "dev.md",
+    "distros.md",
+    "efibootmgr.md",
+    "etc.md",
+    "fdisk.md",
+    "FHS Filesystem Hierarchy Standard.md",
+    "filesystems.md",
+    "fsck.md",
+    "GIT.md",
+    "templates/note.md",
+    "nixos-rebuild.md",
+    "2025-04-24.md",
+    "Nixos.md",
+    "LINUX.md",
+    "Untitled Kanban.md",
+    "kernel.md",
+    "k3s.md",
+    "install vm client.md",
     "attachments/Recording 20250123043546.m4a",
     "attachments/Recording 20250122175427.m4a",
     "attachments/Recording 20250122175123.m4a",
-    "usr.md",
-    "tmp.md",
-    "opt.md",
-    "hdparam.md",
-    "dev.md",
-    "Roadmap.md",
-    "zettelkasten.md",
-    "var.md",
-    "udev.md",
-    "templates/note.md",
     "templates",
-    "systemd.md",
-    "startup.md",
-    "openSUSE.md",
-    "nixos-rebuild.md",
-    "mount.md",
-    "kernel.md",
-    "k3s.md",
-    "initramfs.md",
-    "init.md",
-    "git submodule.md",
-    "git reset.md",
-    "git reflog.md",
-    "git rebase.md",
-    "git rebase -i.md",
     "attachments/Pasted image 20250112104953.png",
     "attachments/Pasted image 20250112104021.png",
     "attachments/Pasted image 20250111122244.png",
