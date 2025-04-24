@@ -11,15 +11,10 @@
             "id": "a0d8d177706949df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dd.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "dd"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -178,10 +174,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a0d8d177706949df",
+  "active": "170ccbcaaae552d1",
   "lastOpenFiles": [
-    "attachments/Recording 20250122175427.m4a",
     "dd.md",
+    "attachments/Recording 20250123043546.m4a",
+    "attachments/Recording 20250122175427.m4a",
     "attachments/Recording 20250122175123.m4a",
     "usr.md",
     "tmp.md",
