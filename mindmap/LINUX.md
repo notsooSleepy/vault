@@ -11,3 +11,4 @@ aliases:
 [[startup]]
 [[filesystems]]
 [[FHS Filesystem Hierarchy Standard]]
+[[ssh]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap.md",
+                "file": "ssh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,69 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "ssh"
+            }
+          },
+          {
+            "id": "70d623f07b426afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new ssh key.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "new ssh key"
+            }
+          },
+          {
+            "id": "c598970cb45cab88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ssh.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ssh"
+            }
+          },
+          {
+            "id": "6031c0111ddf03db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:command",
+                "query": "tag:#child",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +143,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "install vm client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for install vm client"
+              "title": "Backlinks"
             }
           },
           {
@@ -123,12 +182,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Roadmap"
+              "title": "Outgoing links"
             }
           },
           {
@@ -152,13 +210,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Roadmap"
+              "title": "Outline"
             }
           },
           {
@@ -195,48 +252,47 @@
   },
   "active": "6017e0620c2450c6",
   "lastOpenFiles": [
-    "Obsidian help.md",
-    "Isolinux.md",
-    "bootloader.md",
-    "Btrfs.md",
-    "CentOS.md",
-    "Das U-Boot.md",
-    "dd.md",
-    "Debian.md",
-    "dev.md",
-    "distros.md",
-    "efibootmgr.md",
-    "etc.md",
-    "fdisk.md",
-    "FHS Filesystem Hierarchy Standard.md",
-    "filesystems.md",
-    "fsck.md",
-    "GIT.md",
-    "templates/note.md",
-    "nixos-rebuild.md",
-    "2025-04-24.md",
-    "Nixos.md",
+    "new ssh key.md",
+    "Server Setup.md",
+    "add new user.md",
+    "startup.md",
+    "ssh -i *.pem.md",
+    "ssh.md",
     "LINUX.md",
-    "Untitled Kanban.md",
-    "kernel.md",
+    "init.md",
+    "POST.md",
+    "BIOS.md",
     "k3s.md",
-    "install vm client.md",
-    "attachments/Recording 20250123043546.m4a",
-    "attachments/Recording 20250122175427.m4a",
-    "attachments/Recording 20250122175123.m4a",
-    "templates",
+    "fsck.md",
+    "dev.md",
+    "filesystems.md",
+    "FAT.md",
+    "Btrfs.md",
+    "zettelkasten.md",
     "attachments/Pasted image 20250112104953.png",
     "attachments/Pasted image 20250112104021.png",
     "attachments/Pasted image 20250111122244.png",
     "attachments/Pasted image 20250111122049.png",
     "attachments/Pasted image 20250111122007.png",
-    "attachments/Pasted image 20250111121850.png",
     "attachments/Pasted image 20250111121624.png",
+    "attachments/Pasted image 20250111121850.png",
+    "attachments/Pasted image 20250106163433.png",
+    "Roadmap.md",
+    "Obsidian help.md",
+    "Isolinux.md",
+    "bootloader.md",
+    "CentOS.md",
+    "Das U-Boot.md",
+    "dd.md",
+    "Debian.md",
+    "distros.md",
+    "attachments/Recording 20250123043546.m4a",
+    "attachments/Recording 20250122175427.m4a",
+    "attachments/Recording 20250122175123.m4a",
+    "templates",
     "Excalidraw",
     "attachments/Pasted image 20250107191409.png",
     "attachments",
-    "attachments/Pasted image 20250106163433.png",
-    "attachments/Pasted image 20250106163433.png",
     "Untitled.canvas",
     "Recording 20250106155423.m4a",
     "Recording 20250106155412.m4a",
