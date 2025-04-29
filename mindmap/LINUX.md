@@ -12,3 +12,4 @@ aliases:
 [[filesystems]]
 [[FHS Filesystem Hierarchy Standard]]
 [[ssh]]
+[[loging]]

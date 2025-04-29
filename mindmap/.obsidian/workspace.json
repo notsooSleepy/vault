@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "add new user.md",
+                "file": "LINUX.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "add new user"
+              "title": "LINUX"
+            }
+          },
+          {
+            "id": "ff4f91925f754082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journalctl.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "journalctl"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -264,15 +288,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6031c0111ddf03db",
+  "active": "ff4f91925f754082",
   "lastOpenFiles": [
-    "new ssh key.md",
-    "Server Setup.md",
-    "add new user.md",
-    "startup.md",
-    "ssh -i *.pem.md",
+    "loging.md",
+    "journalctl.md",
     "ssh.md",
     "LINUX.md",
+    "add new user.md",
+    "new ssh key.md",
+    "Server Setup.md",
+    "startup.md",
+    "ssh -i *.pem.md",
     "init.md",
     "POST.md",
     "BIOS.md",
@@ -298,8 +324,6 @@
     "CentOS.md",
     "Das U-Boot.md",
     "dd.md",
-    "Debian.md",
-    "distros.md",
     "attachments/Recording 20250123043546.m4a",
     "attachments/Recording 20250122175427.m4a",
     "attachments/Recording 20250122175123.m4a",
