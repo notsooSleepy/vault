@@ -11,124 +11,13 @@
             "id": "a0d8d177706949df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ssh.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ssh"
-            }
-          },
-          {
-            "id": "70d623f07b426afd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "new ssh key.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "new ssh key"
-            }
-          },
-          {
-            "id": "c598970cb45cab88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ssh.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ssh"
-            }
-          },
-          {
-            "id": "6031c0111ddf03db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LINUX.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LINUX"
-            }
-          },
-          {
-            "id": "ff4f91925f754082",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journalctl.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "journalctl"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,14 +177,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ff4f91925f754082",
+  "active": "a0d8d177706949df",
   "lastOpenFiles": [
-    "loging.md",
-    "journalctl.md",
-    "ssh.md",
+    "firewall.md",
+    "iptables.md",
     "LINUX.md",
-    "add new user.md",
+    "ssh.md",
     "new ssh key.md",
+    "journalctl.md",
+    "loging.md",
+    "add new user.md",
     "Server Setup.md",
     "startup.md",
     "ssh -i *.pem.md",
@@ -322,8 +213,6 @@
     "Isolinux.md",
     "bootloader.md",
     "CentOS.md",
-    "Das U-Boot.md",
-    "dd.md",
     "attachments/Recording 20250123043546.m4a",
     "attachments/Recording 20250122175427.m4a",
     "attachments/Recording 20250122175123.m4a",

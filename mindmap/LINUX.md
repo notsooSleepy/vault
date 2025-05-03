@@ -13,3 +13,4 @@ aliases:
 [[FHS Filesystem Hierarchy Standard]]
 [[ssh]]
 [[loging]]
+[[firewall]]
