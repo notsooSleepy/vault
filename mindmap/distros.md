@@ -9,6 +9,7 @@ aliases:
 # References
 [[Nixos]]
 [[Debian]]
+[[Arch]]
 [[RHEL]]
 [[SUSE]]
 [[k3s]]

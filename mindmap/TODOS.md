@@ -14,10 +14,6 @@ kanban-plugin: board
 - [ ] SSH
 
 
-## Nixcloud
-
-
-
 ## Linux+
 
 - [ ] System Management
@@ -31,6 +27,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
