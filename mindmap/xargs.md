@@ -1,10 +1,10 @@
 ---
 tags:
   - command
-  - baby
+  - important
 aliases:
 ---
-2025-01-12 10:20
-# git mergetool
+2025-05-07 18:30
+# xargs
 
 # References

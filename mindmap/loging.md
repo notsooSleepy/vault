@@ -8,3 +8,4 @@ aliases:
 
 # References
 [[journalctl]]
+[[tail -f]]

@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -9,6 +9,13 @@
   "colorGroups": [
     {
       "query": "tag:#mainTopic  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    },
+    {
+      "query": "tag:#important  ",
       "color": {
         "a": 1,
         "rgb": 16711680
@@ -32,7 +39,7 @@
       "query": "tag:#baby  ",
       "color": {
         "a": 1,
-        "rgb": 16711888
+        "rgb": 12255487
       }
     },
     {
@@ -60,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2962962962962947,
-  "close": true
+  "scale": 0.1975308641975298,
+  "close": false
 }

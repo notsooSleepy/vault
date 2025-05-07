@@ -11,4 +11,3 @@ aliases:
 # References
 [[new ssh key]]
 [[ssh -i *.pem]]
-[[iptables]]

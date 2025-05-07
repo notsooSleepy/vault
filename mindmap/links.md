@@ -1,0 +1,9 @@
+---
+tags: 
+aliases:
+---
+2025-05-07 18:00
+# links
+
+# References
+[[readlink]]

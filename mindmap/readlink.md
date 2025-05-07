@@ -1,10 +1,9 @@
 ---
 tags:
   - command
-  - baby
 aliases:
 ---
-2025-01-12 10:20
-# git mergetool
+2025-05-07 18:00
+# readlink
 
 # References
