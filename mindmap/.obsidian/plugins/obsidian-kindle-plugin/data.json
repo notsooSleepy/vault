@@ -1,0 +1,10 @@
+{
+  "amazonRegion": "global",
+  "highlightsFolder": "Clippings",
+  "lastSyncMode": "amazon",
+  "isLoggedIn": false,
+  "syncOnBoot": false,
+  "downloadBookMetadata": false,
+  "lastSyncDate": "2025-05-11T16:44:36.780Z",
+  "fileNameTemplate": "{{authorsLastNames}}-{{title}}"
+}

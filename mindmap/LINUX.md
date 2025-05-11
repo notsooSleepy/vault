@@ -3,8 +3,8 @@ tags:
   - mainTopic
 aliases:
 ---
-2025-01-12 10:08
-# LINUX
+️2025-01-12 10:08
+# LINUX️️
 
 # References
 [[distros]]
@@ -16,3 +16,4 @@ aliases:
 [[firewall]]
 [[helpers]]
 [[commands]]
+

@@ -2,5 +2,9 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-kanban",
-  "persistent-graph"
+  "persistent-graph",
+  "smart-second-brain",
+  "local-gpt",
+  "ai-providers",
+  "obsidian-kindle-plugin"
 ]

@@ -11,10 +11,14 @@
             "id": "a0d8d177706949df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "mindmap/Fedora.md",
+                "bFile": "mindmap/Fedora.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Fedora"
             }
           }
         ]
@@ -31,25 +35,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "170ccbcaaae552d1",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "fedfff149a6942f0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:important",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,13 +60,25 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "c6697ebae359bfe3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 245.5
   },
   "right": {
     "id": "36adca8208cb8685",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for LINUX"
             }
           },
           {
@@ -117,7 +121,44 @@
             }
           },
           {
-            "id": "ff5fb9c629318b8b",
+            "id": "43844847040dd8a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LINUX.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LINUX"
+            }
+          },
+          {
+            "id": "6017e0620c2450c6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "73e28f8418e1f97f",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "message-square",
+              "title": "New Chat"
+            }
+          },
+          {
+            "id": "f90750394d796d9d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,37 +171,13 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "43844847040dd8a3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "6017e0620c2450c6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 502.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,39 +189,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "smart-second-brain:Open S2B Chat": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
   "active": "a0d8d177706949df",
   "lastOpenFiles": [
-    "ssh.md",
-    "commands.md",
+    "Chats/New Chat.md",
+    "Clippings/Bresnahan-lpic-1linuxprofessionalinstitutecertificationstudyguideexam101-500andexam102-500_5thedition.md",
+    "ufw.md",
+    "Clippings/Building and Installing Software Packages for Linux Unpacking the Files.md",
+    "Clippings/Mine of Information - Beginner's Guide to Installing from Source.md",
+    "Clippings/What is Airflow® — Airflow Documentation.md",
+    "Excalidraw/Drawing 2025-01-12 10.40.53.excalidraw.md",
+    "templates/note.md",
     "$().md",
-    "system.md",
-    "weirdos.md",
-    "xargs.md",
-    "new ssh key.md",
-    "cryptography.md",
-    "ed25519.md",
-    "pgp.md",
-    "gpg.md",
-    "text.md",
-    "sed.md",
+    "add new user.md",
+    "firewall.md",
     "grep.md",
-    "sums.md",
-    "sha512sum.md",
-    "sha256sum.md",
-    "md5sum.md",
-    "network.md",
-    "cut.md",
-    "wc.md",
-    "sort.md",
-    "nl.md",
-    "loging.md",
-    "tail -f.md",
-    "paste.md",
+    "Obsidian help.md",
+    "ed25519.md",
+    "().md",
+    "Clippings/Robert Sedgewick-Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne.md",
+    "Fedora.md",
+    "filesystems.md",
+    "cryptography.md",
+    "commands.md",
+    "export.md",
+    "Chats/ Summary_TextSummarization.md",
+    "ssh -i *.pem.md",
+    "ssh.md",
+    "Summarizing Text.md",
+    "CentOS.md",
+    "Chats",
+    "Clippings",
     "attachments/Pasted image 20250112104953.png",
     "attachments/Pasted image 20250112104021.png",
     "attachments/Pasted image 20250111122244.png",
@@ -222,7 +243,6 @@
     "attachments",
     "Untitled.canvas",
     "Recording 20250106155423.m4a",
-    "Recording 20250106155412.m4a",
-    "Recording 20250106155355.m4a"
+    "Recording 20250106155412.m4a"
   ]
 }

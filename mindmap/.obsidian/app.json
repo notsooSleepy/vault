@@ -4,5 +4,7 @@
   "useTab": true,
   "showLineNumber": true,
   "attachmentFolderPath": "/attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false
 }

@@ -1,0 +1,19 @@
+{
+  "_version": 1,
+  "debugLogging": false,
+  "useNativeFetch": false,
+  "providers": [
+    {
+      "id": "id-1746967599258",
+      "name": "ollama",
+      "apiKey": "",
+      "url": "http://localhost:11435",
+      "type": "ollama",
+      "model": "mistral:latest",
+      "availableModels": [
+        "mistral:latest",
+        "nomic-embed-text:latest"
+      ]
+    }
+  ]
+}

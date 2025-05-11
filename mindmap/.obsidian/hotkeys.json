@@ -68,5 +68,13 @@
       ],
       "key": "Backspace"
     }
+  ],
+  "local-gpt:context-menu": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "B"
+    }
   ]
 }
