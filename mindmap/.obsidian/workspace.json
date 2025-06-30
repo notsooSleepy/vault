@@ -11,17 +11,35 @@
             "id": "a0d8d177706949df",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "60997f8dc643f3d3",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
               "state": {
-                "aFile": "mindmap/Fedora.md",
-                "bFile": "mindmap/Fedora.md",
-                "aRef": ""
+                "file": "TODOS.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Fedora"
+              "icon": "lucide-trello",
+              "title": "TODOS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +92,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,18 +165,6 @@
             }
           },
           {
-            "id": "73e28f8418e1f97f",
-            "type": "leaf",
-            "state": {
-              "type": "chat-view",
-              "state": {
-                "file": "Chats/New Chat.md"
-              },
-              "icon": "message-square",
-              "title": "New Chat"
-            }
-          },
-          {
             "id": "f90750394d796d9d",
             "type": "leaf",
             "state": {
@@ -181,30 +188,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "smart-second-brain:Open S2B Chat": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "a0d8d177706949df",
+  "active": "60997f8dc643f3d3",
   "lastOpenFiles": [
+    "tldr.md",
+    "TODOS.md",
+    "Excalidraw/Drawing 2025-01-12 10.40.53.excalidraw.md",
     "Chats/New Chat.md",
     "Clippings/Bresnahan-lpic-1linuxprofessionalinstitutecertificationstudyguideexam101-500andexam102-500_5thedition.md",
     "ufw.md",
     "Clippings/Building and Installing Software Packages for Linux Unpacking the Files.md",
     "Clippings/Mine of Information - Beginner's Guide to Installing from Source.md",
     "Clippings/What is Airflow® — Airflow Documentation.md",
-    "Excalidraw/Drawing 2025-01-12 10.40.53.excalidraw.md",
     "templates/note.md",
     "$().md",
     "add new user.md",
@@ -222,8 +229,6 @@
     "Chats/ Summary_TextSummarization.md",
     "ssh -i *.pem.md",
     "ssh.md",
-    "Summarizing Text.md",
-    "CentOS.md",
     "Chats",
     "Clippings",
     "attachments/Pasted image 20250112104953.png",
