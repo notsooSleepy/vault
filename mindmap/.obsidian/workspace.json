@@ -199,12 +199,12 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "smart-second-brain:Open S2B Chat": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "6017e0620c2450c6",
+  "active": "a0d8d177706949df",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "sums.md",
     "Roadmap.md",
     "iptables.md",
@@ -230,7 +230,6 @@
     "Clippings/Robert Sedgewick-Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne.md",
     "Fedora.md",
     "filesystems.md",
-    "cryptography.md",
     "Chats",
     "Clippings",
     "attachments/Pasted image 20250112104953.png",
@@ -248,7 +247,6 @@
     "Excalidraw",
     "attachments/Pasted image 20250107191409.png",
     "attachments",
-    "Untitled.canvas",
     "Recording 20250106155423.m4a",
     "Recording 20250106155412.m4a"
   ]
