@@ -72,6 +72,7 @@
   "local-gpt:context-menu": [
     {
       "modifiers": [
+        "Mod",
         "Meta"
       ],
       "key": "B"

@@ -21,25 +21,27 @@
             "id": "60997f8dc643f3d3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODOS.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "LINUX.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "TODOS"
+              "icon": "lucide-file",
+              "title": "LINUX"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,9 +203,14 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "60997f8dc643f3d3",
+  "active": "6017e0620c2450c6",
   "lastOpenFiles": [
+    "sums.md",
+    "Roadmap.md",
+    "iptables.md",
     "tldr.md",
+    "wikiman.md",
+    "LINUX.md",
     "TODOS.md",
     "Excalidraw/Drawing 2025-01-12 10.40.53.excalidraw.md",
     "Chats/New Chat.md",
@@ -224,11 +231,6 @@
     "Fedora.md",
     "filesystems.md",
     "cryptography.md",
-    "commands.md",
-    "export.md",
-    "Chats/ Summary_TextSummarization.md",
-    "ssh -i *.pem.md",
-    "ssh.md",
     "Chats",
     "Clippings",
     "attachments/Pasted image 20250112104953.png",
