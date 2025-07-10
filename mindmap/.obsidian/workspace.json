@@ -11,19 +11,9 @@
             "id": "a0d8d177706949df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "60997f8dc643f3d3",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX.md",
+                "file": "Docker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LINUX"
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "aea0d2eed7754e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "windows image.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "windows image"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,34 +217,36 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "a0d8d177706949df",
+  "active": "aea0d2eed7754e87",
   "lastOpenFiles": [
+    "windows image.md",
+    "Docker.md",
+    "Neovim.md",
+    "luasnip.md",
+    "lua.md",
+    "2025-07-04.md",
+    "2025-07-07.md",
+    "1751832372-TSHG.md",
+    "1751832343-ZYMY.md",
+    "1751832278-NFCY.md",
+    "1751829593-FYNT.md",
+    "Ubuntu.md",
+    "Debian.md",
+    "Debian.md~",
+    "Arch.md",
+    "LINUX.md",
     "Untitled.canvas",
     "sums.md",
     "Roadmap.md",
     "iptables.md",
     "tldr.md",
     "wikiman.md",
-    "LINUX.md",
     "TODOS.md",
     "Excalidraw/Drawing 2025-01-12 10.40.53.excalidraw.md",
     "Chats/New Chat.md",
     "Clippings/Bresnahan-lpic-1linuxprofessionalinstitutecertificationstudyguideexam101-500andexam102-500_5thedition.md",
     "ufw.md",
     "Clippings/Building and Installing Software Packages for Linux Unpacking the Files.md",
-    "Clippings/Mine of Information - Beginner's Guide to Installing from Source.md",
-    "Clippings/What is Airflow® — Airflow Documentation.md",
-    "templates/note.md",
-    "$().md",
-    "add new user.md",
-    "firewall.md",
-    "grep.md",
-    "Obsidian help.md",
-    "ed25519.md",
-    "().md",
-    "Clippings/Robert Sedgewick-Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne.md",
-    "Fedora.md",
-    "filesystems.md",
     "Chats",
     "Clippings",
     "attachments/Pasted image 20250112104953.png",
@@ -247,7 +264,6 @@
     "Excalidraw",
     "attachments/Pasted image 20250107191409.png",
     "attachments",
-    "Recording 20250106155423.m4a",
-    "Recording 20250106155412.m4a"
+    "Recording 20250106155423.m4a"
   ]
 }
