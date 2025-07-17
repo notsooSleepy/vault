@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "36adca8208cb8685",
@@ -181,6 +180,22 @@
   },
   "active": "a0d8d177706949df",
   "lastOpenFiles": [
+    "k3s.md",
+    "GIT.md",
+    "git submodule.md",
+    "git branch.md",
+    "git checkout.md",
+    "git reflog.md",
+    "git reset.md",
+    "git cherry-pick.md",
+    "git rebase.md",
+    "git merge.md",
+    "git log.md",
+    "git add.md",
+    "git diff.md",
+    "zettelkasten/Drawing 2025-01-12 10.40.53.excalidraw.md",
+    "zettelkasten",
+    "Obsidian help.md",
     "cheetsheets.md",
     "man pages.md",
     "Roadmap.md",
@@ -193,22 +208,7 @@
     "Neovim.md",
     "luasnip.md",
     "lua.md",
-    "2025-07-04.md",
-    "2025-07-07.md",
-    "1751832372-TSHG.md",
-    "1751832343-ZYMY.md",
-    "1751832278-NFCY.md",
-    "1751829593-FYNT.md",
-    "Ubuntu.md",
-    "Debian.md",
     "Debian.md~",
-    "Arch.md",
-    "LINUX.md",
-    "sums.md",
-    "iptables.md",
-    "tldr.md",
-    "wikiman.md",
-    "TODOS.md",
     "Chats",
     "Clippings",
     "attachments/Pasted image 20250112104953.png",
@@ -225,7 +225,6 @@
     "templates",
     "Excalidraw",
     "attachments/Pasted image 20250107191409.png",
-    "attachments",
-    "Recording 20250106155423.m4a"
+    "attachments"
   ]
 }
