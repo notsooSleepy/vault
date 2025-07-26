@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows image.md",
+                "file": "Nixos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "windows image"
+              "title": "Nixos"
+            }
+          },
+          {
+            "id": "bb3b95db84db80c3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,8 +203,11 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "a0d8d177706949df",
+  "active": "bb3b95db84db80c3",
   "lastOpenFiles": [
+    "tutorials.md",
+    "install vm client.md",
+    "Nixos.md",
     "windows image.md",
     "bootloader.md",
     "archives.md",
@@ -218,9 +232,6 @@
     "zettelkasten",
     "Obsidian help.md",
     "cheetsheets.md",
-    "man pages.md",
-    "Roadmap.md",
-    "POST.md",
     "Untitled.canvas",
     "Debian.md~",
     "Chats",

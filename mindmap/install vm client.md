@@ -1,6 +1,6 @@
 ---
 tags:
-  - topic
+  - child
 aliases:
 ---
 2025-01-12 10:27

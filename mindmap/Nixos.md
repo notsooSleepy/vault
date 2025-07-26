@@ -7,5 +7,6 @@ aliases:
 # Nixos
 
 # References
-[[install vm client]]
+
+[[tutorials]]
 [[nixos-rebuild ]]
