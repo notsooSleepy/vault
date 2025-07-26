@@ -26,5 +26,7 @@ services:
     restart: always
     stop_grace_period: 2m
 ```
+
+*when connecting through RDP use only localhost* without port number
 # References
 https://github.com/dockur/windows
