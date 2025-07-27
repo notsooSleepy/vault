@@ -3,5 +3,7 @@
   "obsidian-git",
   "obsidian-kanban",
   "persistent-graph",
-  "obsidian-kindle-plugin"
+  "obsidian-kindle-plugin",
+  "pdf-plus",
+  "extended-graph"
 ]

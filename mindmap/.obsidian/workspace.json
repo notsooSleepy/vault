@@ -11,38 +11,13 @@
             "id": "a0d8d177706949df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nixos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nixos"
-            }
-          },
-          {
-            "id": "bb3b95db84db80c3",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,14 +175,19 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "bb3b95db84db80c3",
+  "active": "a0d8d177706949df",
   "lastOpenFiles": [
+    "git hub login.md",
+    "attachments/Recording 20250727201044.m4a",
+    "Nixos.md",
     "tutorials.md",
     "install vm client.md",
-    "Nixos.md",
     "windows image.md",
     "bootloader.md",
     "archives.md",
@@ -230,8 +210,6 @@
     "git diff.md",
     "zettelkasten/Drawing 2025-01-12 10.40.53.excalidraw.md",
     "zettelkasten",
-    "Obsidian help.md",
-    "cheetsheets.md",
     "Untitled.canvas",
     "Debian.md~",
     "Chats",
@@ -249,7 +227,6 @@
     "attachments/Recording 20250122175123.m4a",
     "templates",
     "Excalidraw",
-    "attachments/Pasted image 20250107191409.png",
-    "attachments"
+    "attachments/Pasted image 20250107191409.png"
   ]
 }
