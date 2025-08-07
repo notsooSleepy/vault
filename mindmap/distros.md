@@ -13,3 +13,4 @@ aliases:
 [[RHEL]]
 [[SUSE]]
 [[k3s]]
+[[armbian]]

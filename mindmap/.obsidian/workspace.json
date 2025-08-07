@@ -11,13 +11,100 @@
             "id": "a0d8d177706949df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "just apps.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "just apps"
+            }
+          },
+          {
+            "id": "50326dc4812eaed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dolphin default app.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "dolphin default app"
+            }
+          },
+          {
+            "id": "e756cf23612f5af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "armbian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "armbian"
+            }
+          },
+          {
+            "id": "cf24424dd0b7ba4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kiosk.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "kiosk"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "dd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,15 +268,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a0d8d177706949df",
+  "active": "50326dc4812eaed0",
   "lastOpenFiles": [
+    "dolphin default app.md",
+    "just apps.md",
+    "LINUX.md",
+    "kiosk.md",
+    "distros.md",
+    "armbian.md",
+    "windows image.md",
+    "dd.md",
     "cut.md",
     "git hub login.md",
     "attachments/Recording 20250727201044.m4a",
     "Nixos.md",
     "tutorials.md",
     "install vm client.md",
-    "windows image.md",
     "bootloader.md",
     "archives.md",
     "commands.md",
@@ -203,13 +297,6 @@
     "git checkout.md",
     "git reflog.md",
     "git reset.md",
-    "git cherry-pick.md",
-    "git rebase.md",
-    "git merge.md",
-    "git log.md",
-    "git add.md",
-    "git diff.md",
-    "zettelkasten/Drawing 2025-01-12 10.40.53.excalidraw.md",
     "zettelkasten",
     "Untitled.canvas",
     "Debian.md~",
