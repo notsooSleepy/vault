@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "50326dc4812eaed0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dolphin default app.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "dolphin default app"
-            }
-          },
-          {
             "id": "e756cf23612f5af4",
             "type": "leaf",
             "state": {
@@ -104,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -268,10 +244,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "50326dc4812eaed0",
+  "active": "cf24424dd0b7ba4a",
   "lastOpenFiles": [
-    "dolphin default app.md",
     "just apps.md",
+    "dolphin default app.md",
     "LINUX.md",
     "kiosk.md",
     "distros.md",
