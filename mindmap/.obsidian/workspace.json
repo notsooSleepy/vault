@@ -229,6 +229,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
