@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "armbian.md",
+                "file": "cryptography.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "armbian"
-            }
-          },
-          {
-            "id": "cf24424dd0b7ba4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kiosk.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "kiosk"
+              "title": "cryptography"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,14 +221,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cf24424dd0b7ba4a",
+  "active": "e756cf23612f5af4",
   "lastOpenFiles": [
+    "armbian.md",
+    "kiosk.md",
     "just apps.md",
     "dolphin default app.md",
     "LINUX.md",
-    "kiosk.md",
     "distros.md",
-    "armbian.md",
     "windows image.md",
     "dd.md",
     "cut.md",

@@ -10,5 +10,5 @@ aliases:
 [[sums]]
 [[gpg]]
 [[pgp]]
-[[ed25519]]
+[[ed25519]] d
 
