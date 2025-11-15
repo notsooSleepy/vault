@@ -10,5 +10,6 @@ https://archlinux.org/
 
 [[dolphin default app]]
 [[screenshot region]]
+[[fonts]]
 # References
 https://wiki.archlinux.org/title/Screen_capture#Wayland
