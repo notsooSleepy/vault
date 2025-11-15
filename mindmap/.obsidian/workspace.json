@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch.md",
+                "file": "visualizations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arch"
+              "title": "visualizations"
             }
           }
         ],
@@ -109,7 +109,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -200,11 +201,39 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "Arch.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
+            }
+          },
+          {
+            "id": "e3914f9a979d05cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bf53ffc008754d40",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
+            }
+          },
+          {
+            "id": "95845c006936ad6d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
             }
           }
         ],
@@ -227,22 +256,20 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "switcher:Open quick switcher": false
+      "switcher:Open quick switcher": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4c75654d5f058052",
+  "active": "6017e0620c2450c6",
   "lastOpenFiles": [
-    "fonts.md",
-    "Arch.md",
+    "visualizations.md",
+    "table and matrix.md",
     "PowerBi.md",
+    "Arch.md",
+    "fonts.md",
     "APIs.md",
     "attachments/Pasted image 20251115181248.png",
     "charts.md",
-    "visualizations.md",
-    "table and matrix.md",
     "attachments/Pasted image 20251115180030.png",
     "attachments/Pasted image 20251115170957.png",
     "attachments/Pasted image 20251115180559.png",

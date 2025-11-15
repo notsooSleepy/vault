@@ -69,5 +69,15 @@
       ],
       "key": "B"
     }
-  ]
+  ],
+  "vimium:show-markers": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:save-file": [],
+  "editor:open-search": []
 }

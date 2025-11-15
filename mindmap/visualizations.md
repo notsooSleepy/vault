@@ -3,7 +3,6 @@ tags:
   - baby
 aliases:
 ---
-2025-11-15 17:06
 # visualizations
 
 
