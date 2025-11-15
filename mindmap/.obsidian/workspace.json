@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PowerBi.md",
+                "file": "Docker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PowerBi"
-            }
-          },
-          {
-            "id": "4c75654d5f058052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "visualizations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "visualizations"
+              "title": "Docker"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX.md",
+                "file": "spacekeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LINUX"
+              "title": "Backlinks for spacekeys"
             }
           },
           {
@@ -149,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "spacekeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from spacekeys"
             }
           },
           {
@@ -162,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINUX.md",
+                "file": "spacekeys.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LINUX"
+              "title": "Outline of spacekeys"
             }
           },
           {
@@ -201,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "spacekeys.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -220,14 +198,24 @@
             "id": "bf53ffc008754d40",
             "type": "leaf",
             "state": {
-              "type": "BC-tree",
+              "type": "empty",
               "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
             "id": "95845c006936ad6d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a30c15ad95426925",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -235,13 +223,23 @@
               "icon": "BC-trail-icon",
               "title": "Breadcrumbs Matrix"
             }
+          },
+          {
+            "id": "03006722ef8cb0c4",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 449.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,15 +255,18 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "switcher:Open quick switcher": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6017e0620c2450c6",
+  "active": "a678953a1ae5d4fc",
   "lastOpenFiles": [
-    "visualizations.md",
-    "table and matrix.md",
-    "PowerBi.md",
     "Arch.md",
+    "spacekeys.md",
+    "PowerBi.md",
+    "visualizations.md",
+    "sort.md",
+    "table and matrix.md",
     "fonts.md",
     "APIs.md",
     "attachments/Pasted image 20251115181248.png",
@@ -297,8 +298,6 @@
     "weirdos.md",
     "luasnip.md",
     "cryptography.md",
-    "tutorials.md",
-    "git hub login.md",
     "zettelkasten",
     "Untitled.canvas",
     "Debian.md~",

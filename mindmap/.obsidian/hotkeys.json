@@ -79,5 +79,14 @@
     }
   ],
   "editor:save-file": [],
-  "editor:open-search": []
+  "editor:open-search": [],
+  "spacekeys:find-command": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ]
 }
