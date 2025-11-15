@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "02dac8c684471d19",
+        "id": "96e011600517dabc",
         "type": "tabs",
+        "dimension": 66.90359840071079,
         "children": [
           {
-            "id": "a0d8d177706949df",
+            "id": "a678953a1ae5d4fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "just apps.md",
+                "file": "PowerBi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +29,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "just apps"
+              "title": "PowerBi"
             }
           },
           {
-            "id": "e756cf23612f5af4",
+            "id": "de9868891b41f9cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cryptography.md",
+                "file": "visualizations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +53,52 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cryptography"
+              "title": "visualizations"
+            }
+          },
+          {
+            "id": "62c977aca62d77ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "charts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "charts"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "692de279998be4f3",
+        "type": "tabs",
+        "dimension": 33.0964015992892,
+        "children": [
+          {
+            "id": "8cc873465b08fa48",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dd",
+                "query": "tag:baby",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,53 +263,53 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e756cf23612f5af4",
+  "active": "6017e0620c2450c6",
   "lastOpenFiles": [
-    "armbian.md",
-    "kiosk.md",
-    "just apps.md",
+    "APIs.md",
+    "attachments/Pasted image 20251115181248.png",
+    "charts.md",
+    "visualizations.md",
+    "table and matrix.md",
+    "attachments/Pasted image 20251115180030.png",
+    "attachments/Pasted image 20251115170957.png",
+    "attachments/Pasted image 20251115180559.png",
+    "attachments/Pasted image 20251115180446.png",
+    "attachments/Pasted image 20251115180433.png",
+    "attachments/Pasted image 20251115180238.png",
+    "attachments/Pasted image 20251115180216.png",
+    "attachments/Pasted image 20251115180153.png",
+    "attachments/Pasted image 20251115180126.png",
+    "slicer.md",
+    "PowerBi.md",
+    "flavors.md",
+    "queries.md",
+    "SQL Server.md",
+    "PostgreSQL.md",
+    "SQL.md",
+    "data types.md",
+    "schema.md",
+    "Arch.md",
     "dolphin default app.md",
+    "screenshot region.md",
+    "just apps.md",
     "LINUX.md",
-    "distros.md",
-    "windows image.md",
-    "dd.md",
-    "cut.md",
-    "git hub login.md",
     "attachments/Recording 20250727201044.m4a",
-    "Nixos.md",
+    "tables.md",
+    "Roadmap.md",
+    "weirdos.md",
+    "luasnip.md",
+    "cryptography.md",
     "tutorials.md",
-    "install vm client.md",
-    "bootloader.md",
-    "archives.md",
-    "commands.md",
-    "xz.md",
-    "readlink.md",
-    "TODOS.md",
-    "k3s.md",
-    "GIT.md",
-    "git submodule.md",
-    "git branch.md",
-    "git checkout.md",
-    "git reflog.md",
-    "git reset.md",
+    "git hub login.md",
     "zettelkasten",
     "Untitled.canvas",
     "Debian.md~",
     "Chats",
     "Clippings",
-    "attachments/Pasted image 20250112104953.png",
-    "attachments/Pasted image 20250112104021.png",
-    "attachments/Pasted image 20250111122244.png",
-    "attachments/Pasted image 20250111122049.png",
-    "attachments/Pasted image 20250111122007.png",
-    "attachments/Pasted image 20250111121624.png",
-    "attachments/Pasted image 20250111121850.png",
-    "attachments/Pasted image 20250106163433.png",
     "attachments/Recording 20250123043546.m4a",
     "attachments/Recording 20250122175427.m4a",
     "attachments/Recording 20250122175123.m4a",
     "templates",
-    "Excalidraw",
-    "attachments/Pasted image 20250107191409.png"
+    "Excalidraw"
   ]
 }

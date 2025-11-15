@@ -16,5 +16,4 @@ aliases:
 [[firewall]]
 [[helpers]]
 [[commands]]
-[[just apps]]
 

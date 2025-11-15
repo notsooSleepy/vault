@@ -9,5 +9,3 @@ aliases:
 # References
 
 
-[[install vm client]]
-[[git hub login]]

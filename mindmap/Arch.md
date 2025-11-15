@@ -7,4 +7,8 @@ aliases:
 # Arch
 https://archlinux.org/
 
+
+[[dolphin default app]]
+[[screenshot region]]
 # References
+https://wiki.archlinux.org/title/Screen_capture#Wayland
