@@ -31,7 +31,7 @@
           {
             "id": "c02e10ce8daf695b",
             "type": "tabs",
-            "dimension": 53.394625176803395,
+            "dimension": 53.39462517680339,
             "children": [
               {
                 "id": "7df992e9ba991bd8",
@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP.md",
+                "file": "Prompt engineering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -113,7 +113,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NLP"
+              "title": "Prompt engineering"
             }
           }
         ]
@@ -282,9 +282,19 @@
   },
   "active": "6b6dcb5beeca9e74",
   "lastOpenFiles": [
-    "Computer vision.md",
+    "attachments/Pasted image 20251116210209.png",
+    "attachments/Pasted image 20251116210035.png",
+    "attachments/Pasted image 20251116205955.png",
+    "attachments/Pasted image 20251116205900.png",
+    "attachments/Pasted image 20251116205751.png",
+    "attachments/Pasted image 20251116205637.png",
+    "attachments/Pasted image 20251116205504.png",
+    "attachments/Pasted image 20251116205337.png",
+    "attachments/Pasted image 20251116205220.png",
     "NLP.md",
+    "Prompt engineering.md",
     "AI.md",
+    "Computer vision.md",
     "Reasoning.md",
     "Knowledge representation.md",
     "Deep learning.md",
@@ -297,16 +307,8 @@
     "Roadmap.md",
     "attachments/Pasted image 20251116133120.png",
     "attachments/Pasted image 20251116132946.png",
-    "attachments/Pasted image 20251116132728.png",
     "drilling down.md",
-    "attachments/Pasted image 20251116131758.png",
-    "attachments/Pasted image 20251116131706.png",
-    "attachments/Pasted image 20251116131602.png",
-    "attachments/Pasted image 20251116131515.png",
-    "attachments/Pasted image 20251116125854.png",
     "Arch.md",
-    "attachments/Pasted image 20251116125612.png",
-    "attachments/Pasted image 20251116125526.png",
     "BIOS.md",
     "screenshot region.md",
     "TODOS.md",
@@ -316,8 +318,6 @@
     "spacekeys.md",
     "visualizations.md",
     "sort.md",
-    "table and matrix.md",
-    "fonts.md",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",

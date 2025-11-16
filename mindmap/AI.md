@@ -12,4 +12,5 @@ aliases:
 [[Reasoning]]
 [[Computer vision]]
 [[NLP]]
+[[Prompt engineering]]
 # References
