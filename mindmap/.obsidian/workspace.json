@@ -11,7 +11,7 @@
           {
             "id": "125d4296ba64fa25",
             "type": "tabs",
-            "dimension": 46.605374823196605,
+            "dimension": 46.60537482319661,
             "children": [
               {
                 "id": "df193c8ba0ad6b40",
@@ -31,7 +31,7 @@
           {
             "id": "c02e10ce8daf695b",
             "type": "tabs",
-            "dimension": 53.39462517680339,
+            "dimension": 53.394625176803395,
             "children": [
               {
                 "id": "7df992e9ba991bd8",
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drilling down.md",
+                "file": "filtering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "drilling down"
+              "title": "filtering"
             }
           }
         ],
@@ -280,15 +280,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6e6b01cc37264b11",
+  "active": "df193c8ba0ad6b40",
   "lastOpenFiles": [
+    "filtering.md",
+    "attachments/Pasted image 20251116133120.png",
+    "attachments/Pasted image 20251116132946.png",
+    "attachments/Pasted image 20251116132728.png",
+    "PowerBi.md",
+    "drilling down.md",
     "attachments/Pasted image 20251116131758.png",
     "attachments/Pasted image 20251116131706.png",
     "attachments/Pasted image 20251116131602.png",
     "attachments/Pasted image 20251116131515.png",
-    "PowerBi.md",
-    "filtering.md",
-    "drilling down.md",
     "attachments/Pasted image 20251116125854.png",
     "Arch.md",
     "attachments/Pasted image 20251116125612.png",
@@ -306,11 +309,7 @@
     "table and matrix.md",
     "fonts.md",
     "APIs.md",
-    "attachments/Pasted image 20251115181248.png",
     "charts.md",
-    "attachments/Pasted image 20251115180030.png",
-    "attachments/Pasted image 20251115170957.png",
-    "attachments/Pasted image 20251115180559.png",
     "slicer.md",
     "flavors.md",
     "queries.md",
