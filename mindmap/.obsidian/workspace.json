@@ -56,8 +56,33 @@
                   "icon": "lucide-file",
                   "title": "Python"
                 }
+              },
+              {
+                "id": "306dcab94cad8e0a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AI.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "AI"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -73,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PowerBi.md",
+                "file": "NLP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +113,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PowerBi"
+              "title": "NLP"
             }
           }
         ]
@@ -257,11 +282,18 @@
   },
   "active": "6b6dcb5beeca9e74",
   "lastOpenFiles": [
+    "Computer vision.md",
+    "NLP.md",
+    "AI.md",
+    "Reasoning.md",
+    "Knowledge representation.md",
+    "Deep learning.md",
+    "Machine learning.md",
     "PowerBi.md",
+    "Python.md",
     "np.array.md",
     "numpy.md",
     "filtering.md",
-    "Python.md",
     "Roadmap.md",
     "attachments/Pasted image 20251116133120.png",
     "attachments/Pasted image 20251116132946.png",
@@ -286,13 +318,6 @@
     "sort.md",
     "table and matrix.md",
     "fonts.md",
-    "APIs.md",
-    "charts.md",
-    "slicer.md",
-    "flavors.md",
-    "queries.md",
-    "SQL Server.md",
-    "PostgreSQL.md",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",
