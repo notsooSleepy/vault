@@ -8,5 +8,8 @@ aliases:
 
 
 [[visualizations]]
+[[drilling down]]
+[[filtering]]
 
+[[reports answer business questions, ask them when you make a report]]
 # References

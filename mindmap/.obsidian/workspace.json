@@ -39,7 +39,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Arch.md",
+                    "file": "PowerBi.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -54,7 +54,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Arch"
+                  "title": "PowerBi"
                 }
               }
             ]
@@ -90,8 +90,33 @@
               "icon": "lucide-file",
               "title": "PowerBi"
             }
+          },
+          {
+            "id": "6e6b01cc37264b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drilling down.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "drilling down"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,11 +280,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "df193c8ba0ad6b40",
+  "active": "6e6b01cc37264b11",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251116131758.png",
+    "attachments/Pasted image 20251116131706.png",
+    "attachments/Pasted image 20251116131602.png",
+    "attachments/Pasted image 20251116131515.png",
     "PowerBi.md",
-    "BIOS.md",
+    "filtering.md",
+    "drilling down.md",
+    "attachments/Pasted image 20251116125854.png",
     "Arch.md",
+    "attachments/Pasted image 20251116125612.png",
+    "attachments/Pasted image 20251116125526.png",
+    "BIOS.md",
     "Untitled.md",
     "screenshot region.md",
     "TODOS.md",
@@ -277,12 +311,6 @@
     "attachments/Pasted image 20251115180030.png",
     "attachments/Pasted image 20251115170957.png",
     "attachments/Pasted image 20251115180559.png",
-    "attachments/Pasted image 20251115180446.png",
-    "attachments/Pasted image 20251115180433.png",
-    "attachments/Pasted image 20251115180238.png",
-    "attachments/Pasted image 20251115180216.png",
-    "attachments/Pasted image 20251115180153.png",
-    "attachments/Pasted image 20251115180126.png",
     "slicer.md",
     "flavors.md",
     "queries.md",
@@ -290,9 +318,6 @@
     "PostgreSQL.md",
     "SQL.md",
     "schema.md",
-    "dolphin default app.md",
-    "just apps.md",
-    "LINUX.md",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",
