@@ -4,8 +4,8 @@
   "obsidian-kanban",
   "persistent-graph",
   "obsidian-kindle-plugin",
-  "breadcrumbs",
   "vimium",
   "cmdr",
-  "spacekeys"
+  "spacekeys",
+  "vim-yank-highlight"
 ]

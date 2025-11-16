@@ -1,4 +1,5 @@
 {
   "cssTheme": "Eldritch",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true
 }

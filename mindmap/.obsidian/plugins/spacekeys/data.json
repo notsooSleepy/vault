@@ -6,7 +6,7 @@
     "autoReload": false
   },
   "modal": {
-    "delay": 500,
+    "delay": 50,
     "execDelay": 100,
     "showInvalid": true,
     "backspaceReverts": true,
