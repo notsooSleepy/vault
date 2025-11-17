@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep learning.md",
+                "file": "MLOps.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deep learning"
+              "title": "MLOps"
             }
           }
         ]
@@ -213,15 +213,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6017e0620c2450c6",
+  "active": "2c8f4d0b6a8277c3",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251117202719.png",
     "AI.md",
+    "Machine learning.md",
+    "Deep learning.md",
     "MLOps.md",
     "attachments/Pasted image 20251117201722.png",
     "Prompt engineering.md",
-    "Deep learning.md",
     "attachments/Pasted image 20251117195246.png",
-    "Machine learning.md",
     "Unsupervised learning.md",
     "Reinforcement learning.md",
     "attachments/Pasted image 20251117194834.png",
