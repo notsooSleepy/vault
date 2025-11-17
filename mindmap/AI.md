@@ -13,4 +13,5 @@ aliases:
 [[Computer vision]]
 [[NLP]]
 [[Prompt engineering]]
+[[MLOps]]
 # References

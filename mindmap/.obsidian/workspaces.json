@@ -6,63 +6,21 @@
         "type": "split",
         "children": [
           {
-            "id": "fe98d34979431f40",
-            "type": "split",
+            "id": "c02e10ce8daf695b",
+            "type": "tabs",
             "dimension": 44.248704663212436,
             "children": [
               {
-                "id": "125d4296ba64fa25",
-                "type": "tabs",
-                "dimension": 46.605374823196605,
-                "children": [
-                  {
-                    "id": "df193c8ba0ad6b40",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "graph",
-                      "state": {},
-                      "pinned": true,
-                      "icon": "lucide-git-fork",
-                      "title": "Graph view"
-                    }
-                  }
-                ],
-                "stacked": true
-              },
-              {
-                "id": "c02e10ce8daf695b",
-                "type": "tabs",
-                "dimension": 53.39462517680339,
-                "children": [
-                  {
-                    "id": "7df992e9ba991bd8",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "PowerBi.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "PowerBi"
-                    }
-                  }
-                ]
+                "id": "306dcab94cad8e0a",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
               }
-            ],
-            "direction": "horizontal"
+            ]
           },
           {
             "id": "eb90dc0551703a26",
@@ -70,12 +28,12 @@
             "dimension": 55.751295336787564,
             "children": [
               {
-                "id": "6b6dcb5beeca9e74",
+                "id": "2c8f4d0b6a8277c3",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "PowerBi.md",
+                    "file": "Deep learning.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -90,35 +48,10 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "PowerBi"
-                }
-              },
-              {
-                "id": "6e6b01cc37264b11",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "filtering.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "filtering"
+                  "title": "Deep learning"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -259,7 +192,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "horizontal",
@@ -282,8 +215,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "6e6b01cc37264b11",
-      "mtime": "2025-11-16T13:44:29+01:00"
+      "active": "2c8f4d0b6a8277c3",
+      "mtime": "2025-11-17T20:18:13+01:00"
     }
   },
   "active": "main"

@@ -9,6 +9,7 @@ aliases:
 * recognize patterns
 * make predictions and decisions
 
-
+[[Supervised learning]]
+[[Unsupervised learning]]
 [[Deep learning]]
 # References

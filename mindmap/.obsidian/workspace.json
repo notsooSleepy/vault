@@ -4,88 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fe98d34979431f40",
-        "type": "split",
+        "id": "c02e10ce8daf695b",
+        "type": "tabs",
         "dimension": 44.248704663212436,
         "children": [
           {
-            "id": "125d4296ba64fa25",
-            "type": "tabs",
-            "dimension": 46.60537482319661,
-            "children": [
-              {
-                "id": "df193c8ba0ad6b40",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true,
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ],
-            "stacked": true
-          },
-          {
-            "id": "c02e10ce8daf695b",
-            "type": "tabs",
-            "dimension": 53.39462517680339,
-            "children": [
-              {
-                "id": "7df992e9ba991bd8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Python.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Python"
-                }
-              },
-              {
-                "id": "306dcab94cad8e0a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AI.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "AI"
-                }
-              }
-            ],
-            "currentTab": 1
+            "id": "306dcab94cad8e0a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       },
       {
         "id": "eb90dc0551703a26",
@@ -93,12 +26,12 @@
         "dimension": 55.751295336787564,
         "children": [
           {
-            "id": "6b6dcb5beeca9e74",
+            "id": "2c8f4d0b6a8277c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt engineering.md",
+                "file": "Deep learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -113,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prompt engineering"
+              "title": "Deep learning"
             }
           }
         ]
@@ -280,44 +213,43 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b6dcb5beeca9e74",
+  "active": "6017e0620c2450c6",
   "lastOpenFiles": [
-    "attachments/Pasted image 20251116210209.png",
-    "attachments/Pasted image 20251116210035.png",
-    "attachments/Pasted image 20251116205955.png",
-    "attachments/Pasted image 20251116205900.png",
-    "attachments/Pasted image 20251116205751.png",
-    "attachments/Pasted image 20251116205637.png",
-    "attachments/Pasted image 20251116205504.png",
-    "attachments/Pasted image 20251116205337.png",
-    "attachments/Pasted image 20251116205220.png",
-    "NLP.md",
-    "Prompt engineering.md",
     "AI.md",
+    "MLOps.md",
+    "attachments/Pasted image 20251117201722.png",
+    "Prompt engineering.md",
+    "Deep learning.md",
+    "attachments/Pasted image 20251117195246.png",
+    "Machine learning.md",
+    "Unsupervised learning.md",
+    "Reinforcement learning.md",
+    "attachments/Pasted image 20251117194834.png",
+    "Association rule discovery.md",
+    "attachments/Pasted image 20251117194720.png",
+    "Anomaly detection.md",
+    "attachments/Pasted image 20251117194600.png",
+    "Clustering.md",
+    "attachments/Pasted image 20251117194444.png",
+    "Supervised learning.md",
+    "Regression.md",
+    "attachments/Pasted image 20251117194158.png",
+    "attachments/Pasted image 20251117194049.png",
+    "Classification.md",
+    "attachments/Pasted image 20251117193706.png",
+    "attachments/Pasted image 20251117193212.png",
+    "Python.md",
+    "NLP.md",
     "Computer vision.md",
     "Reasoning.md",
     "Knowledge representation.md",
-    "Deep learning.md",
-    "Machine learning.md",
     "PowerBi.md",
-    "Python.md",
     "np.array.md",
     "numpy.md",
     "filtering.md",
     "Roadmap.md",
-    "attachments/Pasted image 20251116133120.png",
-    "attachments/Pasted image 20251116132946.png",
     "drilling down.md",
     "Arch.md",
-    "BIOS.md",
-    "screenshot region.md",
-    "TODOS.md",
-    "Docker.md",
-    "POST.md",
-    "data types.md",
-    "spacekeys.md",
-    "visualizations.md",
-    "sort.md",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",
