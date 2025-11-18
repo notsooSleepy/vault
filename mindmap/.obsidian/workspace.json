@@ -6,7 +6,7 @@
       {
         "id": "c02e10ce8daf695b",
         "type": "tabs",
-        "dimension": 44.248704663212436,
+        "dimension": 40,
         "children": [
           {
             "id": "306dcab94cad8e0a",
@@ -23,7 +23,7 @@
       {
         "id": "eb90dc0551703a26",
         "type": "tabs",
-        "dimension": 55.751295336787564,
+        "dimension": 60,
         "children": [
           {
             "id": "2c8f4d0b6a8277c3",
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML workflow.md",
+                "file": "Classification.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ML workflow"
+              "title": "Classification"
             }
           }
         ]
@@ -215,15 +215,24 @@
   },
   "active": "306dcab94cad8e0a",
   "lastOpenFiles": [
-    "Machine learning.md",
+    "Untitled.md",
+    "Supervised learning.md",
+    "Classification.md",
+    "Support Vector Machine SVM.md",
+    "attachments/Pasted image 20251118200440.png",
+    "attachments/Pasted image 20251118200236.png",
     "ML workflow.md",
+    "PowerBi.md",
+    "Obsidian help.md",
+    "zettelkasten/Drawing 2025-01-12 10.40.53.excalidraw.md",
+    "numpy.md",
+    "np.array.md",
+    "Machine learning.md",
     "Unsupervised learning.md",
     "attachments/Pasted image 20251118192517.png",
-    "Supervised learning.md",
     "attachments/Pasted image 20251118192120.png",
     "attachments/Pasted image 20251118192048.png",
     "MLOps.md",
-    "Classification.md",
     "attachments/Pasted image 20251117202719.png",
     "AI.md",
     "Deep learning.md",
@@ -235,22 +244,13 @@
     "Association rule discovery.md",
     "attachments/Pasted image 20251117194720.png",
     "Anomaly detection.md",
-    "attachments/Pasted image 20251117194600.png",
     "Clustering.md",
-    "attachments/Pasted image 20251117194444.png",
     "Regression.md",
     "Python.md",
     "NLP.md",
     "Computer vision.md",
     "Reasoning.md",
     "Knowledge representation.md",
-    "PowerBi.md",
-    "np.array.md",
-    "numpy.md",
-    "filtering.md",
-    "Roadmap.md",
-    "drilling down.md",
-    "Arch.md",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",
