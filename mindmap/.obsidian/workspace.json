@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLOps.md",
+                "file": "Unsupervised learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MLOps"
+              "title": "Unsupervised learning"
             }
           }
         ]
@@ -213,17 +213,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "306dcab94cad8e0a",
+  "active": "2c8f4d0b6a8277c3",
   "lastOpenFiles": [
-    "Machine learning.md",
+    "attachments/Pasted image 20251118192517.png",
+    "Supervised learning.md",
+    "Unsupervised learning.md",
+    "attachments/Pasted image 20251118192120.png",
+    "attachments/Pasted image 20251118192048.png",
     "MLOps.md",
+    "Classification.md",
+    "Machine learning.md",
     "attachments/Pasted image 20251117202719.png",
     "AI.md",
     "Deep learning.md",
     "attachments/Pasted image 20251117201722.png",
     "Prompt engineering.md",
     "attachments/Pasted image 20251117195246.png",
-    "Unsupervised learning.md",
     "Reinforcement learning.md",
     "attachments/Pasted image 20251117194834.png",
     "Association rule discovery.md",
@@ -232,12 +237,8 @@
     "attachments/Pasted image 20251117194600.png",
     "Clustering.md",
     "attachments/Pasted image 20251117194444.png",
-    "Supervised learning.md",
     "Regression.md",
     "attachments/Pasted image 20251117194158.png",
-    "attachments/Pasted image 20251117194049.png",
-    "Classification.md",
-    "attachments/Pasted image 20251117193706.png",
     "Python.md",
     "NLP.md",
     "Computer vision.md",
