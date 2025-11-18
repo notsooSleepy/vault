@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsupervised learning.md",
+                "file": "ML workflow.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unsupervised learning"
+              "title": "ML workflow"
             }
           }
         ]
@@ -213,16 +213,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2c8f4d0b6a8277c3",
+  "active": "306dcab94cad8e0a",
   "lastOpenFiles": [
+    "Machine learning.md",
+    "ML workflow.md",
+    "Unsupervised learning.md",
     "attachments/Pasted image 20251118192517.png",
     "Supervised learning.md",
-    "Unsupervised learning.md",
     "attachments/Pasted image 20251118192120.png",
     "attachments/Pasted image 20251118192048.png",
     "MLOps.md",
     "Classification.md",
-    "Machine learning.md",
     "attachments/Pasted image 20251117202719.png",
     "AI.md",
     "Deep learning.md",
@@ -238,7 +239,6 @@
     "Clustering.md",
     "attachments/Pasted image 20251117194444.png",
     "Regression.md",
-    "attachments/Pasted image 20251117194158.png",
     "Python.md",
     "NLP.md",
     "Computer vision.md",
