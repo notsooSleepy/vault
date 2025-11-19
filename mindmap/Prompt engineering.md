@@ -1,6 +1,6 @@
 ---
 tags:
-  - baby
+  - child
 aliases:
 ---
 2025-11-16 20:51
