@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supervised learning.md",
+                "file": "Explainable AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,7 +44,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Supervised learning"
+              "title": "Explainable AI"
             }
           }
         ]
@@ -213,6 +213,18 @@
   },
   "active": "50243bc81c2ba1d0",
   "lastOpenFiles": [
+    "AI.md",
+    "attachments/Pasted image 20251119205059.png",
+    "Explainable AI.md",
+    "attachments/Pasted image 20251119203405.png",
+    "Machine learning.md",
+    "Deep learning.md",
+    "MLOps.md",
+    "attachments/Pasted image 20251119202121.png",
+    "Computer vision.md",
+    "NLP.md",
+    "attachments/Pasted image 20251119201754.png",
+    "attachments/Pasted image 20251119201343.png",
     "Supervised learning.md",
     "attachments/Pasted image 20251119195618.png",
     "attachments/Pasted image 20251119195510.png",
@@ -222,7 +234,6 @@
     "confusion matrix.md",
     "sensitivity.md",
     "ML workflow.md",
-    "Machine learning.md",
     "Regression.md",
     "specificity.md",
     "overfitting.md",
@@ -230,24 +241,13 @@
     "Prompt engineering.md",
     "Classification.md",
     "accuracy.md",
-    "attachments/Pasted image 20251119190040.png",
-    "attachments/Pasted image 20251119185834.png",
-    "attachments/Pasted image 20251119185743.png",
-    "attachments/Pasted image 20251119184930.png",
     "Association rule discovery.md",
-    "attachments/Pasted image 20251119184304.png",
     "Anomaly detection.md",
     "Clustering.md",
     "DBSCAN.md",
     "K Means.md",
     "Unsupervised learning.md",
     "ssh.md",
-    "vimrc.md",
-    "Untitled 1.md",
-    "Support Vector Machine SVM.md",
-    "PowerBi.md",
-    "Obsidian help.md",
-    "zettelkasten/Drawing 2025-01-12 10.40.53.excalidraw.md",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",

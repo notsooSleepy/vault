@@ -10,5 +10,14 @@ aliases:
 * recognize images
 * play games
 ![[Pasted image 20251117195246.png|600]]
+## When to use
+* when you have lots of data
+* you have lots of processing power
+* when you lack knowledge in domain you explore
+* when you have complex problems
+# Links
 [[Unsupervised learning]]
+[[Computer vision]]
+[[NLP]]
+
 # References

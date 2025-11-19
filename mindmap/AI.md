@@ -5,13 +5,13 @@ aliases:
 ---
 2025-11-16 18:53
 # AI
+![[Pasted image 20251119205059.png|600]]
 ## ANI
-## AGI
 [[Machine learning]]
 [[Knowledge representation]]
 [[Reasoning]]
-[[Computer vision]]
-[[NLP]]
 [[Prompt engineering]]
 [[MLOps]]
+## AGI
+
 # References
