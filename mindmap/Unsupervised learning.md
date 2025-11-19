@@ -7,8 +7,10 @@ aliases:
 # Unsupervised learning
 ## Training data
 * Only has features 
+* No target column
 ## [[Clustering]]
 * can categorize by feature similarity
+* can identify categories in your dataset
 ![[Pasted image 20251118192517.png|600]]
 [[Anomaly detection]]
 [[Association rule discovery]]

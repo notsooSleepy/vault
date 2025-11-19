@@ -7,4 +7,6 @@ aliases:
 # Association rule discovery
 * find common co-occurrences of items in transaction data
 ![[Pasted image 20251117194720.png]]
+![[Pasted image 20251119184304.png|600]]
+
 # References

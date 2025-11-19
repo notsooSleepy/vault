@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regression.md",
+                "file": "Association rule discovery.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,7 +44,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Regression"
+              "title": "Association rule discovery"
             }
           }
         ]
@@ -213,6 +213,14 @@
   },
   "active": "2c8f4d0b6a8277c3",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251119184304.png",
+    "Anomaly detection.md",
+    "Clustering.md",
+    "DBSCAN.md",
+    "K Means.md",
+    "Regression.md",
+    "Unsupervised learning.md",
+    "ssh.md",
     "attachments/Pasted image 20251118203531.png",
     "attachments/Pasted image 20251118203518.png",
     "attachments/Pasted image 20251118203339.png",
@@ -231,7 +239,6 @@
     "numpy.md",
     "np.array.md",
     "Machine learning.md",
-    "Unsupervised learning.md",
     "attachments/Pasted image 20251118192517.png",
     "attachments/Pasted image 20251118192120.png",
     "attachments/Pasted image 20251118192048.png",
@@ -239,16 +246,9 @@
     "attachments/Pasted image 20251117202719.png",
     "AI.md",
     "Deep learning.md",
-    "attachments/Pasted image 20251117201722.png",
     "Prompt engineering.md",
     "Reinforcement learning.md",
     "Association rule discovery.md",
-    "Anomaly detection.md",
-    "Clustering.md",
-    "Regression.md",
-    "Python.md",
-    "NLP.md",
-    "Computer vision.md",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",
