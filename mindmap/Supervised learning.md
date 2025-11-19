@@ -54,8 +54,18 @@ aliases:
 * NO? fine tune it.
 #### ways to improve performance
 ##### dimensionality reduction
-* basically it *means reducing the number of features* which seems counter-intuitive
-
+* basically it *means reducing the number of features* which seems counter-intuitive but some of the features *maybe carry useless information*
+* *keep only one feature when two are correlated* like height and shoe size (usually tall people have big foots)
+* *collapse multiple features into one underlying feature* like height and weight into **Body Mass Index**
+##### hyperparameter tuning
+![[Pasted image 20251119195350.png|600]]
+##### ensemble methods
+###### classification
+* voting
+![[Pasted image 20251119195510.png|600]]
+###### regression
+* averaging
+![[Pasted image 20251119195618.png|600]]
 # Links
 [[Classification]]
 [[Regression]]
