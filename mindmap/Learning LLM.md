@@ -9,6 +9,8 @@ aliases:
 ## [[2. Text representation]]
 ## [[3. Pre-training]]
 ## [[4. Fine-tuning]]
+## [[5. Advanced fine-tuning]]
+# [[Attention mechanisms]]
 # Links
 [[NLP]]
 # References

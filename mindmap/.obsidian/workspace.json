@@ -6,7 +6,7 @@
       {
         "id": "353b7985c36be91b",
         "type": "tabs",
-        "dimension": 57.56476683937824,
+        "dimension": 54.30051813471503,
         "children": [
           {
             "id": "50243bc81c2ba1d0",
@@ -23,7 +23,7 @@
       {
         "id": "eb90dc0551703a26",
         "type": "tabs",
-        "dimension": 42.43523316062176,
+        "dimension": 45.69948186528497,
         "children": [
           {
             "id": "2c8f4d0b6a8277c3",
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transformer.md",
+                "file": "Learning LLM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Transformer"
+              "title": "Learning LLM"
             }
           }
         ]
@@ -213,12 +213,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "50243bc81c2ba1d0",
+  "active": "2c8f4d0b6a8277c3",
   "lastOpenFiles": [
+    "Explainable AI.md",
+    "Learning LLM.md",
+    "5. Advanced fine-tuning.md",
+    "Reinforcement Learning through Human Feedback (RLHF).md",
+    "attachments/Pasted image 20251120205708.png",
+    "Attention mechanisms.md",
+    "Multi-head attention.md",
+    "attachments/Pasted image 20251120205117.png",
+    "Self-attention.md",
+    "3. Pre-training.md",
     "Transformer.md",
     "attachments/Pasted image 20251120203619.png",
     "attachments/Pasted image 20251120202943.png",
-    "3. Pre-training.md",
     "Generative pre-training.md",
     "Masked language modeling.md",
     "ssh -i .pem.md",
@@ -228,7 +237,6 @@
     "Next word prediction.md",
     "attachments/Pasted image 20251120201841.png",
     "attachments/Pasted image 20251120201725.png",
-    "Learning LLM.md",
     "4. Fine-tuning.md",
     "Multi-shot learning.md",
     "attachments/Pasted image 20251120200738.png",
@@ -236,20 +244,12 @@
     "Zero-shot learning.md",
     "attachments/Pasted image 20251120200508.png",
     "attachments/Pasted image 20251120200302.png",
-    "attachments/Pasted image 20251120200057.png",
-    "Explainable AI.md",
     "Unsupervised learning.md",
-    "attachments/Pasted image 20251120195516.png",
     "2. Text representation.md",
     "Word embeddings.md",
     "Bag of words.md",
     "Tokenization.md",
     "Lemmatization.md",
-    "Stop word removal.md",
-    "1. Text Pre-processing.md",
-    "Anomaly detection.md",
-    "schema.md",
-    "AI.md",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",
