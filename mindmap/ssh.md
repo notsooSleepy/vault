@@ -10,4 +10,4 @@ aliases:
 
 # References
 [[new ssh key]]
-[[ssh -i *.pem]]
+[[ssh -i .pem]]

@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Masked language modeling.md",
+                "file": "Transformer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Masked language modeling"
+              "title": "Transformer"
             }
           }
         ]
@@ -213,15 +213,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2c8f4d0b6a8277c3",
+  "active": "50243bc81c2ba1d0",
   "lastOpenFiles": [
-    "attachments/Pasted image 20251120202021.png",
+    "Transformer.md",
+    "attachments/Pasted image 20251120203619.png",
+    "attachments/Pasted image 20251120202943.png",
+    "3. Pre-training.md",
     "Generative pre-training.md",
+    "Masked language modeling.md",
+    "ssh -i .pem.md",
+    "ssh.md",
+    "ssh -i *.pem.md",
+    "attachments/Pasted image 20251120202021.png",
     "Next word prediction.md",
     "attachments/Pasted image 20251120201841.png",
     "attachments/Pasted image 20251120201725.png",
-    "Masked language modeling.md",
-    "3. Pre-training.md",
     "Learning LLM.md",
     "4. Fine-tuning.md",
     "Multi-shot learning.md",
@@ -234,13 +240,9 @@
     "Explainable AI.md",
     "Unsupervised learning.md",
     "attachments/Pasted image 20251120195516.png",
-    "attachments/Pasted image 20251120195432.png",
     "2. Text representation.md",
     "Word embeddings.md",
-    "ssh -i .pem.md",
-    "attachments/Pasted image 20251120194712.png",
     "Bag of words.md",
-    "attachments/Pasted image 20251120194420.png",
     "Tokenization.md",
     "Lemmatization.md",
     "Stop word removal.md",
@@ -248,9 +250,6 @@
     "Anomaly detection.md",
     "schema.md",
     "AI.md",
-    "Machine learning.md",
-    "Deep learning.md",
-    "MLOps.md",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",

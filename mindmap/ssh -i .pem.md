@@ -7,7 +7,7 @@ aliases:
 
 2025-04-28 19:37
 # ssh -i .pem
--i switch is for adding identity file which has .pem extension
+-i switch is for adding identity file which has .pem extension 
 ```bash
 ssh -i privateKey.pem user@ip
 ```
