@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning LLM.md",
+                "file": "Generative AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Learning LLM"
+              "title": "Generative AI"
+            }
+          },
+          {
+            "id": "7dcf6b8a1af52213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedding.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Embedding"
             }
           }
         ]
@@ -215,16 +239,28 @@
   },
   "active": "2c8f4d0b6a8277c3",
   "lastOpenFiles": [
-    "Explainable AI.md",
+    "Machine learning.md",
+    "Unsupervised learning.md",
     "Learning LLM.md",
     "5. Advanced fine-tuning.md",
+    "Embedding.md",
+    "4. Fine-tuning.md",
+    "3. Pre-training.md",
+    "2. Text representation.md",
+    "1. Text Pre-processing.md",
+    "Transfer learning.md",
+    "git rebase -i.md",
+    "Generative AI.md",
+    "Generative Adversarial Networks (GANs).md",
+    "Supervised learning.md",
+    "AI.md",
+    "Explainable AI.md",
     "Reinforcement Learning through Human Feedback (RLHF).md",
     "attachments/Pasted image 20251120205708.png",
     "Attention mechanisms.md",
     "Multi-head attention.md",
     "attachments/Pasted image 20251120205117.png",
     "Self-attention.md",
-    "3. Pre-training.md",
     "Transformer.md",
     "attachments/Pasted image 20251120203619.png",
     "attachments/Pasted image 20251120202943.png",
@@ -234,22 +270,11 @@
     "ssh.md",
     "ssh -i *.pem.md",
     "attachments/Pasted image 20251120202021.png",
-    "Next word prediction.md",
     "attachments/Pasted image 20251120201841.png",
     "attachments/Pasted image 20251120201725.png",
-    "4. Fine-tuning.md",
-    "Multi-shot learning.md",
     "attachments/Pasted image 20251120200738.png",
-    "Few-shot learning.md",
-    "Zero-shot learning.md",
     "attachments/Pasted image 20251120200508.png",
     "attachments/Pasted image 20251120200302.png",
-    "Unsupervised learning.md",
-    "2. Text representation.md",
-    "Word embeddings.md",
-    "Bag of words.md",
-    "Tokenization.md",
-    "Lemmatization.md",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",

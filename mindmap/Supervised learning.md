@@ -2,6 +2,7 @@
 tags:
   - adault
 aliases:
+  - discriminative model
 ---
 2025-11-17 19:30
 # Supervised learning
