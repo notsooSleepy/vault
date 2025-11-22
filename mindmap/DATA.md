@@ -7,5 +7,10 @@ aliases:
 # DATA
 ## [[Data Context]]
 ## [[Types of data]]
+## [[Mental models]]
+## [[Decision making processes]]
+## [[Aggregations]]
+## [[Data management]]
+
 # Links
 # References
