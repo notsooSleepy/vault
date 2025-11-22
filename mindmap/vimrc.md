@@ -13,3 +13,5 @@ noremap K <C-b>
 noremap J <C-f>
 " Uses ; to start commands in Visual and Normal modes
 noremap ; :
+
+[[SETTINGS]]

@@ -20,3 +20,4 @@ kanban-plugin: board
 {"kanban-plugin":"board","list-collapse":[false]}
 ```
 %%
+[[SETTINGS]]

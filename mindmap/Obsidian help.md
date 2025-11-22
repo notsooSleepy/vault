@@ -96,3 +96,4 @@ You can also inline footnotes in a sentence. Note that the caret goes outside th
 You can also use inline footnotes. ^[This is an inline footnote.]
 ```
 https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax
+[[SETTINGS]]

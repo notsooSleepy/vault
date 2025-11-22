@@ -9,3 +9,5 @@ aliases:
 ![[Pasted image 20250112104021.png]]
 ![[Pasted image 20250112104953.png]]
 # References
+
+[[SETTINGS]]
