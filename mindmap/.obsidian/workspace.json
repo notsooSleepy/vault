@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHapley Additive exPlanations (SHAP).md",
+                "file": "AI Ethics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SHapley Additive exPlanations (SHAP)"
+              "title": "AI Ethics"
             }
           }
         ]
@@ -215,10 +215,13 @@
   },
   "active": "2c8f4d0b6a8277c3",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251122111456.png",
+    "AI.md",
+    "AI Ethics.md",
+    "SHapley Additive exPlanations (SHAP).md",
     "attachments/Pasted image 20251122105307.png",
     "Explainable AI.md",
     "Local Interpretable Model-agnostic Explanations (LIME).md",
-    "SHapley Additive exPlanations (SHAP).md",
     "Generative AI.md",
     "Embedding.md",
     "Obsidian help.md",
@@ -239,8 +242,6 @@
     "git rebase -i.md",
     "Generative Adversarial Networks (GANs).md",
     "Supervised learning.md",
-    "AI.md",
-    "Reinforcement Learning through Human Feedback (RLHF).md",
     "attachments/Pasted image 20251120205708.png",
     "attachments/Pasted image 20251120205117.png",
     "attachments/Pasted image 20251120203619.png",
@@ -250,7 +251,6 @@
     "attachments/Pasted image 20251120201725.png",
     "attachments/Pasted image 20251120200738.png",
     "attachments/Pasted image 20251120200508.png",
-    "attachments/Pasted image 20251120200302.png",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",

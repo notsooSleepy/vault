@@ -13,5 +13,7 @@ aliases:
 [[Prompt engineering]]
 [[MLOps]]
 ## AGI
+## [[AI Ethics]]
+
 
 # References
