@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generative AI.md",
+                "file": "SHapley Additive exPlanations (SHAP).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,31 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Generative AI"
-            }
-          },
-          {
-            "id": "7dcf6b8a1af52213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Embedding"
+              "title": "SHapley Additive exPlanations (SHAP)"
             }
           }
         ]
@@ -237,20 +213,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "50243bc81c2ba1d0",
+  "active": "2c8f4d0b6a8277c3",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251122105307.png",
+    "Explainable AI.md",
+    "Local Interpretable Model-agnostic Explanations (LIME).md",
+    "SHapley Additive exPlanations (SHAP).md",
+    "Generative AI.md",
+    "Embedding.md",
     "Obsidian help.md",
     "zettelkasten/zettelkasten.md",
     "spacekeys.md",
     "templates/note.md",
     "vimrc.md",
     "TODOS.md",
-    "Generative AI.md",
     "Machine learning.md",
     "Unsupervised learning.md",
     "Learning LLM.md",
     "5. Advanced fine-tuning.md",
-    "Embedding.md",
     "4. Fine-tuning.md",
     "3. Pre-training.md",
     "2. Text representation.md",
@@ -260,13 +240,9 @@
     "Generative Adversarial Networks (GANs).md",
     "Supervised learning.md",
     "AI.md",
-    "Explainable AI.md",
     "Reinforcement Learning through Human Feedback (RLHF).md",
     "attachments/Pasted image 20251120205708.png",
-    "Attention mechanisms.md",
-    "Multi-head attention.md",
     "attachments/Pasted image 20251120205117.png",
-    "Self-attention.md",
     "attachments/Pasted image 20251120203619.png",
     "attachments/Pasted image 20251120202943.png",
     "attachments/Pasted image 20251120202021.png",
