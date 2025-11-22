@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data ethics.md",
+                "file": "Data life cycle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data ethics"
+              "title": "Data life cycle"
             }
           }
         ]
@@ -213,11 +213,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2c8f4d0b6a8277c3",
+  "active": "50243bc81c2ba1d0",
   "lastOpenFiles": [
-    "Personal identifiable information (PII).md",
-    "Data ethics.md",
+    "Data life cycle.md",
     "Data management.md",
+    "Data ethics.md",
+    "Personal identifiable information (PII).md",
     "Data governance.md",
     "Data quality.md",
     "Data security and privacy.md",
@@ -241,7 +242,6 @@
     "PowerBi.md",
     "Data Context.md",
     "Metadata.md",
-    "AI Ethics.md",
     "attachments/Pasted image 20251122111456.png",
     "attachments/Pasted image 20251122105307.png",
     "attachments/Pasted image 20251120205708.png",

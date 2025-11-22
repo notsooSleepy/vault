@@ -9,5 +9,6 @@ aliases:
 ## [[Data quality]]
 ## [[Data security and privacy]]
 ## [[Data ethics]]
+## [[Data life cycle]]
 # Links
 # References
