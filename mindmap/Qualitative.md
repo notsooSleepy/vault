@@ -1,0 +1,11 @@
+---
+tags:
+  - baby
+aliases:
+---
+2025-11-22 18:04
+# Qualitative
+* categorical data
+* useful for spotting patterns
+# Links
+# References

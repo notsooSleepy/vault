@@ -12,4 +12,6 @@ aliases:
 [[filtering]]
 
 [[reports answer business questions, ask them when you make a report. Do you even know them?]]
+# Links
+[[DATA]]
 # References

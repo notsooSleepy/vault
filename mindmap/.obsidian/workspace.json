@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Ethics.md",
+                "file": "Qualitative.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI Ethics"
+              "title": "Qualitative"
             }
           }
         ]
@@ -213,11 +213,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2c8f4d0b6a8277c3",
+  "active": "50243bc81c2ba1d0",
   "lastOpenFiles": [
+    "Qualitative.md",
+    "Types of data.md",
+    "Quantitative.md",
+    "Structured.md",
+    "Unstructured.md",
+    "DATA.md",
+    "PowerBi.md",
+    "Data Context.md",
+    "Metadata.md",
+    "AI Ethics.md",
+    "ssh.md",
+    "Lemmatization.md",
     "attachments/Pasted image 20251122111456.png",
     "AI.md",
-    "AI Ethics.md",
     "SHapley Additive exPlanations (SHAP).md",
     "attachments/Pasted image 20251122105307.png",
     "Explainable AI.md",
@@ -232,16 +243,6 @@
     "TODOS.md",
     "Machine learning.md",
     "Unsupervised learning.md",
-    "Learning LLM.md",
-    "5. Advanced fine-tuning.md",
-    "4. Fine-tuning.md",
-    "3. Pre-training.md",
-    "2. Text representation.md",
-    "1. Text Pre-processing.md",
-    "Transfer learning.md",
-    "git rebase -i.md",
-    "Generative Adversarial Networks (GANs).md",
-    "Supervised learning.md",
     "attachments/Pasted image 20251120205708.png",
     "attachments/Pasted image 20251120205117.png",
     "attachments/Pasted image 20251120203619.png",
@@ -250,7 +251,6 @@
     "attachments/Pasted image 20251120201841.png",
     "attachments/Pasted image 20251120201725.png",
     "attachments/Pasted image 20251120200738.png",
-    "attachments/Pasted image 20251120200508.png",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",
