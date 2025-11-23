@@ -14,3 +14,4 @@ aliases:
 [[SUSE]]
 [[k3s]]
 [[armbian]]
+[[raspbian]]
