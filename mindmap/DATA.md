@@ -11,6 +11,10 @@ aliases:
 ## [[Decision making processes]]
 ## [[Aggregations]]
 ## [[Data management]]
-
+## [[Insights = spostrzerzenia]]
+## [[visualizations]]
+## [[Data storytelling]]
+# How we communicate
+![[Pasted image 20251123144822.png|600]]
 # Links
 # References

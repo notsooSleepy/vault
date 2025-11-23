@@ -10,6 +10,7 @@ aliases:
 	* share of roles and responsibilities
 	* to achieve optimal results in terms of time and cost
 	* collect or create data
+	
 2. Storing and managing
 	* data stored in database or data warehouse
 	* easily accessible to the right person

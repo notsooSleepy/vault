@@ -1,5 +1,6 @@
 ---
 tags:
+  - important
   - child
 aliases:
 ---
