@@ -14,5 +14,7 @@ aliases:
 ## [[charts]]
 ## [[histograms]]
 ## [[scatter pot]]
+# Files
+[[Data+Visualizations+-+DataCamp.pdf]]
 # Links
 # References
