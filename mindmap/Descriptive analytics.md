@@ -17,4 +17,5 @@ aliases:
 * [[outlier detection]]
 * [[Exploratory Data Analysis (EDA)]]
 # Links
+[[Diagnostic analytics]]
 # References

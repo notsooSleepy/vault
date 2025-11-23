@@ -19,4 +19,5 @@ aliases:
 * [[Hypothesis testing]]
 * [[Root Cause Analysis (RCA)]]
 # Links
+[[Predictive analytics]]
 # References

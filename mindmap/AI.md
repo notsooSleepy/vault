@@ -12,9 +12,6 @@ aliases:
 ### [[Reasoning]]
 ### [[Prompt engineering]]
 ### [[MLOps]]
-### [[Supervised learning]]
-### [[Unsupervised learning]]
-### [[NLP]]
 ## AGI
 ## [[AI Ethics]]
 

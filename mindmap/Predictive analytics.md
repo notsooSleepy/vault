@@ -14,7 +14,7 @@ aliases:
 ### caution
 * there is always a degree of uncertainty associated with predictions
 ## common techniques
-* [[Machine learning]]
+* Machine learning
 	* [[Classification]]-based
 		* predicting cancelations of subscriptions
 	* [[Regression]]-based
@@ -25,4 +25,5 @@ aliases:
 	* predicting whether an email is spam or not
 ## [[Predictive modeling]]
 # Links
+[[Prescriptive analytics]]
 # References
