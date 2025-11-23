@@ -16,57 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "fae45a0fc2e4c3d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dashboards.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "dashboards"
-            }
-          },
-          {
-            "id": "31e73fa2ca495ac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dashboards.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "dashboards"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c8777ae831ddbc8e",
@@ -78,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "visualizations.md",
+                "file": "McCandless technique.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -93,7 +44,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "visualizations"
+              "title": "McCandless technique"
             }
           }
         ]
@@ -260,12 +211,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fae45a0fc2e4c3d9",
+  "active": "a8612c5c57b25796",
   "lastOpenFiles": [
-    "attachments/dashboard_design_checklist_final_jjynde.pdf",
+    "McCandless technique.md",
     "visualizations.md",
-    "attachments/Data+Visualizations+-+DataCamp.pdf",
     "dashboards.md",
+    "attachments/dashboard_design_checklist_final_jjynde.pdf",
+    "attachments/Data+Visualizations+-+DataCamp.pdf",
     "[Data+Visualizations+-+DataCamp.pdf.md",
     "Data Visualization cheat sheet.md",
     "Dashboard design checklist.md",
@@ -307,7 +259,6 @@
     "Clippings",
     "attachments/Recording 20250123043546.m4a",
     "attachments/Recording 20250122175427.m4a",
-    "attachments/Recording 20250122175123.m4a",
-    "templates"
+    "attachments/Recording 20250122175123.m4a"
   ]
 }
