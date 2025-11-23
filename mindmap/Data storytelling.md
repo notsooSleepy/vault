@@ -29,8 +29,16 @@ Method of communicating data insights tailored to a specific audience with an ov
 * people engage with storytelling *better* than raw data
 * are more *"sticky"*
 * retaining the impact stories is much easier
-![[Pasted image 20251123181322.png|300]]
-				*VS*
+## How
+### What are we trying to say
+### What visualization is best to share our message
+![[Pasted image 20251123184027.png|600]]
+
+
+
+---
+## versus
+![[Pasted image 20251123181322.png|600]]
 ![[Pasted image 20251123181402.png|600]]
 # Links
 # References
