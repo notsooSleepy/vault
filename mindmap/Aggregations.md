@@ -14,4 +14,6 @@ aliases:
 * aggregations allow you to focus on a specific attribute of a dataset
 * its important to understand business context behind aggregation
 # Links
+[[descriptive statistics]]
+[[Statistics]]
 # References

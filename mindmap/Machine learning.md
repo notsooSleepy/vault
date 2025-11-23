@@ -22,6 +22,5 @@ aliases:
 # Links
 [[Supervised learning]]
 [[Unsupervised learning]]
-[[Deep learning]]
 [[Generative AI]]
 # References

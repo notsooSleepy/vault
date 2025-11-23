@@ -12,8 +12,8 @@ aliases:
 ## [[Aggregations]]
 ## [[Data management]]
 ## [[Insights = spostrzerzenia]]
-## [[visualizations]]
 ## [[Data storytelling]]
+## [[Analytics]]
 # How we communicate
 ![[Pasted image 20251123144822.png|600]]
 # Links

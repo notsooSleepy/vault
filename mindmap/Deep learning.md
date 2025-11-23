@@ -19,6 +19,5 @@ aliases:
 # Links
 [[Unsupervised learning]]
 [[Computer vision]]
-[[NLP]]
 
 # References

@@ -7,11 +7,14 @@ aliases:
 # AI
 ![[Pasted image 20251119205059.png|600]]
 ## ANI
-[[Machine learning]]
-[[Knowledge representation]]
-[[Reasoning]]
-[[Prompt engineering]]
-[[MLOps]]
+### [[Machine learning]]
+### [[Knowledge representation]]
+### [[Reasoning]]
+### [[Prompt engineering]]
+### [[MLOps]]
+### [[Supervised learning]]
+### [[Unsupervised learning]]
+### [[NLP]]
 ## AGI
 ## [[AI Ethics]]
 
