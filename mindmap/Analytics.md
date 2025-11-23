@@ -16,7 +16,7 @@ aliases:
 ### [[Predictive analytics]]
 * what will happen?
 * identify possible outcomes and the probability that they will happen
-### Prescriptive
+### [[Prescriptive analytics]]
 * what should we do?
 * determine the best course of action given the outcome we want to achieve
 # Links
