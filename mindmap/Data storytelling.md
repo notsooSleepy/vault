@@ -33,9 +33,33 @@ Method of communicating data insights tailored to a specific audience with an ov
 ### What are we trying to say
 ### What visualization is best to share our message
 ![[Pasted image 20251123184027.png|600]]
-
-
-
+## In teamwork
+* remain flexible
+* within a group, someone can serve more than one role
+* start with any amount of members
+* rotate roles and learn collectively
+### Subject Matter Expert (SME)
+* responsible for knowing the business problem completely
+* objectives:
+	* develop narrative, giving data story a voice
+	* build context, relate data story to organizational efforts
+### Analyst
+* technical expert in charge of uncovering and supporting insights
+* objectives:
+	* support other roles
+	* answer analytical questions
+	* *does not require business expertise*
+### Visualizer
+* blends art and science to create compelling visuals
+* objectives:
+	* craft stunning visualizations
+	* ensure insights are properly showcased
+### Reviewer
+* Evaluates the overall data story
+* objectives:
+	* verifies assumptions
+	* gives overall impression of data story
+	* acts as a sample audience
 ---
 ## versus
 ![[Pasted image 20251123181322.png|600]]

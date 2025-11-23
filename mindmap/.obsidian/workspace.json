@@ -6,7 +6,7 @@
       {
         "id": "353b7985c36be91b",
         "type": "tabs",
-        "dimension": 54.30051813471503,
+        "dimension": 55.751295336787564,
         "children": [
           {
             "id": "50243bc81c2ba1d0",
@@ -23,7 +23,7 @@
       {
         "id": "eb90dc0551703a26",
         "type": "tabs",
-        "dimension": 45.69948186528497,
+        "dimension": 44.248704663212436,
         "children": [
           {
             "id": "2c8f4d0b6a8277c3",
@@ -213,16 +213,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2c8f4d0b6a8277c3",
+  "active": "50243bc81c2ba1d0",
   "lastOpenFiles": [
-    "attachments/Pasted image 20251123184027.png",
+    "NLP.md",
+    "Unsupervised learning.md",
+    "Deep learning.md",
+    "Machine learning.md",
+    "Supervised learning.md",
+    "histograms.md",
     "Data storytelling.md",
+    "DATA.md",
+    "SETTINGS.md",
+    "attachments/Pasted image 20251123184027.png",
     "Insights = spostrzerzenia.md",
     "Obsidian help.md",
     "Data Context.md",
     "attachments/Pasted image 20251123181402.png",
     "attachments/Pasted image 20251123181322.png",
-    "DATA.md",
     "charts.md",
     "gauge and kpi charts.md",
     "visualizations.md",
@@ -237,20 +244,13 @@
     "attachments/Pasted image 20251123173454.png",
     "attachments/Pasted image 20251123173423.png",
     "attachments/Pasted image 20251123173329.png",
-    "histograms.md",
     "scatter pot.md",
     "attachments/Pasted image 20251123172258.png",
     "attachments/Pasted image 20251123172150.png",
     "slicer.md",
     "table and matrix.md",
-    "Data life cycle.md",
-    "Visualization theory.md",
-    "DIKW Pyramid.md",
     "attachments/Pasted image 20251123144822.png",
-    "kiosk.md",
-    "distros.md",
     "attachments/Pasted image 20251122184015.png",
-    "attachments/Pasted image 20251122111456.png",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",

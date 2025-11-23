@@ -1,5 +1,6 @@
 ---
 tags:
+  - topic
   - child
 aliases:
 ---

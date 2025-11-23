@@ -1,5 +1,6 @@
 ---
 tags:
+  - topic
   - adault
 aliases:
   - discriminative model

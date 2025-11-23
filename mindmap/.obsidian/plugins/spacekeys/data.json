@@ -3,7 +3,7 @@
     "path": "spacekeys.md",
     "format": "auto",
     "extend": false,
-    "autoReload": false
+    "autoReload": true
   },
   "modal": {
     "delay": 50,
