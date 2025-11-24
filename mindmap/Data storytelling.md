@@ -8,14 +8,14 @@ aliases:
 # Data storytelling
 Method of communicating data insights tailored to a specific audience with an overarching narrative
 ## Parts of a story
-### visualization
+### [[visualizations]]
 * easily understood
 * *focus on trends and patterns over specific details*
 ### context
 * show audience broader picture
 * *focus on what is essential to understand*
 * unifies data story with business objectives and outcomes
-### narrative
+### [[narrative]]
 * ~~data should always be subjective and doesn't need a voice~~ <== myth
 * people need to connect with the message to make decisions
 * objectives of narrative:
@@ -65,4 +65,5 @@ Method of communicating data insights tailored to a specific audience with an ov
 ![[Pasted image 20251123181322.png|600]]
 ![[Pasted image 20251123181402.png|600]]
 # Links
+[[Communicating effectively]]
 # References

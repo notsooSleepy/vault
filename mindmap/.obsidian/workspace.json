@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "McCandless technique.md",
+                "file": "Statistics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,7 +44,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "McCandless technique"
+              "title": "Statistics"
             }
           }
         ]
@@ -213,6 +213,11 @@
   },
   "active": "a8612c5c57b25796",
   "lastOpenFiles": [
+    "Statistics.md",
+    "Communicating effectively.md",
+    "Data storytelling.md",
+    "narrative.md",
+    "attachments/Pasted image 20251124174908.png",
     "McCandless technique.md",
     "visualizations.md",
     "dashboards.md",
@@ -246,11 +251,6 @@
     "attachments/Pasted image 20251123212348.png",
     "attachments/Pasted image 20251123214114.png",
     "Predictive modeling.md",
-    "Predictive text analysis.md",
-    "Time series forecasting.md",
-    "Deep learning.md",
-    "Machine learning.md",
-    "attachments/Pasted image 20251123181402.png",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",
