@@ -11,9 +11,10 @@ aliases:
 	* on average, do women live longer than men?
 	* 
 
-# [[Descriptive statistics-aggregations]]
-# [[Inferential statistics]]
-
+## [[Descriptive statistics-aggregations-opisowa]]
+## [[Inferential statistics-inferencyjna-wnioskowa]]
+## [[Measures of center]]
+## [[Measures of spread]]
 # Links
 [[Quantitative-numerical data]]
 [[Qualitative-categorical]]

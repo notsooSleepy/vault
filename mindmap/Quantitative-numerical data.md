@@ -9,5 +9,4 @@ aliases:
 ## [[Continuous data]]
 ## [[Interval or count data]]
 # Links
-[[scatter plot]]
 # References

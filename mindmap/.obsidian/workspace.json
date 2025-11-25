@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordinal data-ordered.md",
+                "file": "Mode.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordinal data-ordered"
+              "title": "Mode"
             }
           }
         ]
@@ -213,37 +213,38 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a8612c5c57b25796",
+  "active": "9511deaade265142",
   "lastOpenFiles": [
+    "Measures of center.md",
+    "Mode.md",
+    "Median.md",
+    "Mean-average-średnia.md",
+    "Quantitative-numerical data.md",
+    "Statistics.md",
+    "Measures of spread.md",
+    "Inferential statistics-inferencyjna-wnioskowa.md",
+    "$().md",
+    "Descriptive statistics-aggregations-opisowa.md",
+    "Ordinal data-ordered.md",
     "Continuous data.md",
     "Interval or count data.md",
-    "Quantitative-numerical data.md",
     "Qualitative-categorical.md",
     "Nominal data-unordered.md",
-    "Ordinal data-ordered.md",
     "attachments/Pasted image 20251125192550.png",
     "DATA.md",
-    "Statistics.md",
     "scatter plot.md",
-    "Descriptive statistics-aggregations.md",
     "Descriptive analytics.md",
     "Predictive analytics.md",
     "Diagnostic analytics.md",
     "Data storytelling.md",
     "Insights = spostrzerzenia.md",
-    "Inferential statistics.md",
     "Aggregations.md",
     "Communicating effectively.md",
     "narrative.md",
     "attachments/Pasted image 20251124174908.png",
     "McCandless technique.md",
-    "visualizations.md",
-    "dashboards.md",
     "attachments/dashboard_design_checklist_final_jjynde.pdf",
     "attachments/Data+Visualizations+-+DataCamp.pdf",
-    "[Data+Visualizations+-+DataCamp.pdf.md",
-    "Data Visualization cheat sheet.md",
-    "Dashboard design checklist.md",
     "attachments/Pasted image 20251123213624.png",
     "attachments/Pasted image 20251123210507.png",
     "attachments/Pasted image 20251123205723.png",
