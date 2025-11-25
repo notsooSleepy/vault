@@ -14,6 +14,8 @@ aliases:
 ## [[charts]]
 ## [[histograms]]
 ## [[scatter plot]]
+## [[box plot]]
+
 ## [[McCandless technique]]
 # Files
 [[Data+Visualizations+-+DataCamp.pdf]]

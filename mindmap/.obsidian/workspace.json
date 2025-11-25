@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Measures of spread.md",
+                "file": "Interquartile range (IQR).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Measures of spread"
+              "title": "Interquartile range (IQR)"
             }
           }
         ]
@@ -213,12 +213,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a8612c5c57b25796",
+  "active": "9511deaade265142",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251125204734.png",
+    "attachments/Pasted image 20251125204716.png",
+    "Interquartile range (IQR).md",
+    "Measures of spread.md",
+    "Quartiles-kwartyle.md",
+    "attachments/Pasted image 20251125204048.png",
+    "Statistics.md",
+    "Measures of center.md",
+    "visualizations.md",
+    "box plot.md",
+    "attachments/Pasted image 20251125203737.png",
     "Standard deviation (std)-odchylenie standardowe.md",
     "Range-zakres.md",
     "Variance-wariacja.md",
-    "Measures of spread.md",
     "attachments/Pasted image 20251125203046.png",
     "attachments/Pasted image 20251125202601.png",
     "attachments/Pasted image 20251125202029.png",
@@ -226,8 +236,6 @@
     "attachments/Pasted image 20251125201956.png",
     "attachments/Pasted image 20251125192550.png",
     "attachments/Pasted image 20251125201503.png",
-    "Statistics.md",
-    "Measures of center.md",
     "Mode.md",
     "Median.md",
     "Mean-average-średnia.md",
@@ -243,15 +251,8 @@
     "DATA.md",
     "scatter plot.md",
     "Descriptive analytics.md",
-    "Predictive analytics.md",
-    "Diagnostic analytics.md",
-    "Data storytelling.md",
-    "Insights = spostrzerzenia.md",
-    "attachments/Pasted image 20251124174908.png",
     "attachments/dashboard_design_checklist_final_jjynde.pdf",
     "attachments/Data+Visualizations+-+DataCamp.pdf",
-    "attachments/Pasted image 20251123213624.png",
-    "attachments/Pasted image 20251123210507.png",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",

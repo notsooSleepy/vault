@@ -11,5 +11,6 @@ aliases:
 ## [[Variance-wariacja]]
 ## [[Standard deviation (std)-odchylenie standardowe]]
 ## [[Quartiles-kwartyle]]
+## [[Interquartile range (IQR)]]
 # Links
 # References

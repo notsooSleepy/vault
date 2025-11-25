@@ -13,4 +13,5 @@ aliases:
 ## [[Median]]
 ## [[Mode]]
 # Links
+[[Measures of spread]]
 # References
