@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mode.md",
+                "file": "Measures of spread.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mode"
+              "title": "Measures of spread"
             }
           }
         ]
@@ -213,15 +213,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9511deaade265142",
+  "active": "a8612c5c57b25796",
   "lastOpenFiles": [
+    "Standard deviation (std)-odchylenie standardowe.md",
+    "Range-zakres.md",
+    "Variance-wariacja.md",
+    "Measures of spread.md",
+    "attachments/Pasted image 20251125203046.png",
+    "attachments/Pasted image 20251125202601.png",
+    "attachments/Pasted image 20251125202029.png",
+    "attachments/Pasted image 20251125201935.png",
+    "attachments/Pasted image 20251125201956.png",
+    "attachments/Pasted image 20251125192550.png",
+    "attachments/Pasted image 20251125201503.png",
+    "Statistics.md",
     "Measures of center.md",
     "Mode.md",
     "Median.md",
     "Mean-average-średnia.md",
     "Quantitative-numerical data.md",
-    "Statistics.md",
-    "Measures of spread.md",
     "Inferential statistics-inferencyjna-wnioskowa.md",
     "$().md",
     "Descriptive statistics-aggregations-opisowa.md",
@@ -230,7 +240,6 @@
     "Interval or count data.md",
     "Qualitative-categorical.md",
     "Nominal data-unordered.md",
-    "attachments/Pasted image 20251125192550.png",
     "DATA.md",
     "scatter plot.md",
     "Descriptive analytics.md",
@@ -238,21 +247,11 @@
     "Diagnostic analytics.md",
     "Data storytelling.md",
     "Insights = spostrzerzenia.md",
-    "Aggregations.md",
-    "Communicating effectively.md",
-    "narrative.md",
     "attachments/Pasted image 20251124174908.png",
-    "McCandless technique.md",
     "attachments/dashboard_design_checklist_final_jjynde.pdf",
     "attachments/Data+Visualizations+-+DataCamp.pdf",
     "attachments/Pasted image 20251123213624.png",
     "attachments/Pasted image 20251123210507.png",
-    "attachments/Pasted image 20251123205723.png",
-    "attachments/Pasted image 20251123203407.png",
-    "attachments/Pasted image 20251123184027.png",
-    "attachments/Pasted image 20251123181322.png",
-    "attachments/Pasted image 20251123212139.png",
-    "attachments/Pasted image 20251123212348.png",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",
