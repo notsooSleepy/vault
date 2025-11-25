@@ -12,7 +12,7 @@ aliases:
 * investigate relationships in the data
 * preparation for more advanced techniques
 ## common techniques
-* [[descriptive statistics]]
+* [[Descriptive statistics-aggregations]]
 * [[visualizations]] 
 * [[outlier detection]]
 * [[Exploratory Data Analysis (EDA)]]

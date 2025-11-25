@@ -6,6 +6,7 @@
       {
         "id": "1f16b5cc97316bdb",
         "type": "tabs",
+        "dimension": 55.38860103626943,
         "children": [
           {
             "id": "a8612c5c57b25796",
@@ -22,6 +23,7 @@
       {
         "id": "c8777ae831ddbc8e",
         "type": "tabs",
+        "dimension": 44.61139896373057,
         "children": [
           {
             "id": "9511deaade265142",
@@ -29,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics.md",
+                "file": "Ordinal data-ordered.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Statistics"
+              "title": "Ordinal data-ordered"
             }
           }
         ]
@@ -213,9 +215,24 @@
   },
   "active": "a8612c5c57b25796",
   "lastOpenFiles": [
+    "Qualitative-categorical.md",
+    "DATA.md",
+    "Ordinal data-ordered.md",
+    "Nominal data-unordered.md",
     "Statistics.md",
-    "Communicating effectively.md",
+    "Quantitative-numerical data.md",
+    "scatter plot.md",
+    "Interval or count data.md",
+    "Continuous data.md",
+    "Descriptive statistics-aggregations.md",
+    "Descriptive analytics.md",
+    "Predictive analytics.md",
+    "Diagnostic analytics.md",
     "Data storytelling.md",
+    "Insights = spostrzerzenia.md",
+    "Inferential statistics.md",
+    "Aggregations.md",
+    "Communicating effectively.md",
     "narrative.md",
     "attachments/Pasted image 20251124174908.png",
     "McCandless technique.md",
@@ -227,20 +244,6 @@
     "Data Visualization cheat sheet.md",
     "Dashboard design checklist.md",
     "PowerBi.md",
-    "AI.md",
-    "Root Cause Analysis (RCA).md",
-    "Analytics.md",
-    "Prescriptive analytics.md",
-    "Recommendation engine.md",
-    "Predictive analytics.md",
-    "Diagnostic analytics.md",
-    "Descriptive analytics.md",
-    "DATA.md",
-    "histograms.md",
-    "charts.md",
-    "bar and column charts.md",
-    "line charts.md",
-    "Scenario and simulation analysis.md",
     "attachments/Pasted image 20251123213624.png",
     "attachments/Pasted image 20251123210507.png",
     "attachments/Pasted image 20251123205723.png",
@@ -250,7 +253,6 @@
     "attachments/Pasted image 20251123212139.png",
     "attachments/Pasted image 20251123212348.png",
     "attachments/Pasted image 20251123214114.png",
-    "Predictive modeling.md",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",

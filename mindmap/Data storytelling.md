@@ -8,7 +8,7 @@ aliases:
 # Data storytelling
 Method of communicating data insights tailored to a specific audience with an overarching narrative
 ## Parts of a story
-### [[visualizations]]
+### visualizations
 * easily understood
 * *focus on trends and patterns over specific details*
 ### context

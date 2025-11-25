@@ -9,11 +9,11 @@ aliases:
 ## [[Types of data]]
 ## [[Mental models]]
 ## [[Decision making processes]]
-## [[Aggregations]]
 ## [[Data management]]
 ## [[Insights = spostrzerzenia]]
 ## [[Data storytelling]]
 ## [[Analytics]]
+## [[Statistics]]
 # How we communicate
 ![[Pasted image 20251123144822.png|600]]
 # Links

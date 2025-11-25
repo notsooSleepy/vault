@@ -1,9 +1,11 @@
 ---
 tags:
-  - child
+  - baby
 aliases:
 ---
-2025-11-22 18:55
+2025-11-23 20:34
+# Descriptive statistics
+* describing or summarizing our data
 # Aggregations
 * translate raw data into summaries that are easier to understand
 * common aggregations:
@@ -14,6 +16,4 @@ aliases:
 * aggregations allow you to focus on a specific attribute of a dataset
 * its important to understand business context behind aggregation
 # Links
-[[descriptive statistics]]
-[[Statistics]]
 # References

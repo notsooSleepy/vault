@@ -5,6 +5,16 @@ aliases:
 ---
 2025-11-23 20:38
 # Statistics
+* allows us to answer practical questions
+* *require specific, measurable questions:*
+	* is rock music is more popular than jazz?
+	* on average, do women live longer than men?
+	* 
+
+# [[Descriptive statistics-aggregations]]
+# [[Inferential statistics]]
 
 # Links
+[[Quantitative-numerical data]]
+[[Qualitative-categorical]]
 # References

@@ -7,7 +7,7 @@ aliases:
 # Types of data
 * [[Structured]]
 * [[Unstructured]]
-* [[Quantitative]]
-* [[Qualitative]]
+* [[Quantitative-numerical data]]
+* [[Qualitative-categorical]]
 # Links
 # References

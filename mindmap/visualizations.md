@@ -13,7 +13,7 @@ aliases:
 ## [[table and matrix]]
 ## [[charts]]
 ## [[histograms]]
-## [[scatter pot]]
+## [[scatter plot]]
 ## [[McCandless technique]]
 # Files
 [[Data+Visualizations+-+DataCamp.pdf]]
