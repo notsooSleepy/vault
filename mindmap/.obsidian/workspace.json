@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f16b5cc97316bdb",
+        "id": "c8777ae831ddbc8e",
         "type": "tabs",
-        "dimension": 55.38860103626943,
         "children": [
           {
-            "id": "a8612c5c57b25796",
+            "id": "77643d9b25e7bd8e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -21,17 +20,16 @@
         ]
       },
       {
-        "id": "c8777ae831ddbc8e",
+        "id": "d9e9f5a00c291662",
         "type": "tabs",
-        "dimension": 44.61139896373057,
         "children": [
           {
-            "id": "9511deaade265142",
+            "id": "bb9f8ecdc9be133c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interquartile range (IQR).md",
+                "file": "Probability distribution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +44,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Interquartile range (IQR)"
+              "title": "Probability distribution"
             }
           }
         ]
@@ -213,43 +211,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a8612c5c57b25796",
+  "active": "bb9f8ecdc9be133c",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251126194632.png",
+    "attachments/Pasted image 20251126194510.png",
+    "Venn diagram.md",
+    "Discrete distribution.md",
+    "Probability distribution.md",
+    "attachments/Pasted image 20251126193848.png",
+    "attachments/Pasted image 20251126193742.png",
+    "attachments/Pasted image 20251126193512.png",
+    "Measures of chance.md",
+    "Conditional probability.md",
+    "attachments/Pasted image 20251126192305.png",
+    "attachments/Pasted image 20251126192044.png",
+    "attachments/Pasted image 20251126192001.png",
+    "attachments/Pasted image 20251126191301.png",
+    "attachments/Pasted image 20251126191201.png",
+    "attachments/Pasted image 20251126191139.png",
+    "visualizations.md",
+    "Sampling without replacement.md",
+    "Independent probability.md",
+    "Sampling with replacement.md",
+    "Probability of an event.md",
+    "Statistics.md",
+    "Decision making processes.md",
+    "DATA.md",
     "Interquartile range (IQR).md",
-    "attachments/Pasted image 20251125204734.png",
-    "attachments/Pasted image 20251125204716.png",
     "Measures of spread.md",
     "Quartiles-kwartyle.md",
-    "attachments/Pasted image 20251125204048.png",
-    "Statistics.md",
     "Measures of center.md",
-    "visualizations.md",
     "box plot.md",
-    "attachments/Pasted image 20251125203737.png",
     "Standard deviation (std)-odchylenie standardowe.md",
     "Range-zakres.md",
     "Variance-wariacja.md",
-    "attachments/Pasted image 20251125203046.png",
-    "attachments/Pasted image 20251125202601.png",
-    "attachments/Pasted image 20251125202029.png",
-    "attachments/Pasted image 20251125201935.png",
-    "attachments/Pasted image 20251125201956.png",
-    "attachments/Pasted image 20251125192550.png",
     "Mode.md",
     "Median.md",
     "Mean-average-średnia.md",
     "Quantitative-numerical data.md",
-    "Inferential statistics-inferencyjna-wnioskowa.md",
-    "$().md",
-    "Descriptive statistics-aggregations-opisowa.md",
-    "Ordinal data-ordered.md",
-    "Continuous data.md",
-    "Interval or count data.md",
-    "Qualitative-categorical.md",
-    "Nominal data-unordered.md",
-    "DATA.md",
-    "scatter plot.md",
-    "Descriptive analytics.md",
     "attachments/dashboard_design_checklist_final_jjynde.pdf",
     "attachments/Data+Visualizations+-+DataCamp.pdf",
     "attachments/Recording 20250727201044.m4a",

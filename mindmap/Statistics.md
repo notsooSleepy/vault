@@ -15,6 +15,7 @@ aliases:
 ## [[Inferential statistics-inferencyjna-wnioskowa]]
 ## [[Measures of center]]
 ## [[Measures of spread]]
+## [[Measures of chance]]
 # Links
 [[Quantitative-numerical data]]
 [[Qualitative-categorical]]
