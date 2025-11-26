@@ -1,5 +1,6 @@
 ---
 tags:
+  - topic
   - baby
 aliases:
 ---
@@ -9,5 +10,9 @@ aliases:
 ## [[Independent probability]]
 ## [[Conditional probability]]
 ## [[Discrete distribution]]
+## [[Continuous distribution]]
+## [[Binomial distribution]]
+## [[Law of large numbers]]
+## [[Normal Distribution]]
 # Links
 # References

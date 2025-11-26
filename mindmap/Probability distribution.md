@@ -1,6 +1,7 @@
 ---
 tags:
-  - baby
+  - important
+  - child
 aliases:
 ---
 2025-11-26 19:38
@@ -18,6 +19,8 @@ aliases:
 * you can visualize a probability distribution using a [[histograms]], where each bar represents an outcome, and each bar height represents the probability of that outcome
 ![[Pasted image 20251126194510.png|600]]
 ### Probability = area
-![[Pasted image 20251126194632.png|600]]
+![[Pasted image 20251126194706.png|600]]
+![[Pasted image 20251126195239.png|600]]
+## [[Sample distribution vs theoretical distribution]]
 # Links
 # References
