@@ -14,5 +14,6 @@ aliases:
 ## [[Binomial distribution]]
 ## [[Law of large numbers]]
 ## [[Normal Distribution]]
+## [[Poisson distribution]]
 # Links
 # References

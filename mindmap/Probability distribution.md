@@ -21,6 +21,10 @@ aliases:
 ### Probability = area
 ![[Pasted image 20251126194706.png|600]]
 ![[Pasted image 20251126195239.png|600]]
-## [[Sample distribution vs theoretical distribution]]
+## # Sample distribution vs theoretical distribution
+![[Pasted image 20251126195607.png|600]]
+![[Pasted image 20251126195626.png|600]]
+# [[Law of large numbers]]
+![[Pasted image 20251126195704.png|600]]
 # Links
 # References

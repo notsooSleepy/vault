@@ -4,17 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "c8777ae831ddbc8e",
+        "id": "819b3410840c2dfd",
         "type": "tabs",
         "children": [
           {
-            "id": "77643d9b25e7bd8e",
+            "id": "a0d5180e1ed1c737",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "88f264d93b34e6f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability distribution.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Probability distribution"
             }
           }
         ]
@@ -186,20 +210,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "bf51bb554e9d81bd",
+        "id": "a0dd2632d40ab2e3",
         "type": "window",
         "children": [
           {
-            "id": "558430f4313c9120",
+            "id": "5c2ae00c600352a1",
             "type": "tabs",
             "children": [
               {
-                "id": "f95e3ec60e0d2131",
+                "id": "25a113c3d86cf223",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Normal Distribution.md",
+                    "file": "Poisson distribution.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -214,46 +238,51 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Normal Distribution"
+                  "title": "Poisson distribution"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 1287,
+        "x": 13,
         "y": 13,
-        "width": 2546,
+        "width": 2540,
         "height": 1414,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "77643d9b25e7bd8e",
+  "active": "a0d5180e1ed1c737",
   "lastOpenFiles": [
-    "Normal Distribution.md",
-    "Binomial distribution.md",
+    "Probability distribution.md",
+    "Sample distribution vs theoretical distribution.md",
     "Measures of chance.md",
+    "DATA.md",
+    "Poisson distribution.md",
+    "attachments/Pasted image 20251126214554.png",
+    "attachments/Pasted image 20251126214431.png",
+    "Central limit theorem(CLT).md",
+    "attachments/Pasted image 20251126212753.png",
+    "Normal Distribution.md",
+    "Kurtosis.md",
+    "attachments/Pasted image 20251126211823.png",
+    "Skewness.md",
+    "attachments/Pasted image 20251126211556.png",
+    "attachments/Pasted image 20251126210920.png",
+    "attachments/Pasted image 20251126210836.png",
+    "attachments/Pasted image 20251126210816.png",
+    "attachments/Pasted image 20251126210630.png",
+    "Binomial distribution.md",
     "Measures of center.md",
     "Measures of spread.md",
     "attachments/Pasted image 20251126204443.png",
     "Continuous distribution.md",
     "Continuous uniform distribution.md",
-    "attachments/Pasted image 20251126203648.png",
     "Bimodal distribution.md",
-    "attachments/Pasted image 20251126203443.png",
-    "attachments/Pasted image 20251126203134.png",
-    "attachments/Pasted image 20251126203008.png",
-    "attachments/Pasted image 20251126202815.png",
-    "attachments/Pasted image 20251126202645.png",
-    "attachments/Pasted image 20251126202431.png",
     "Discrete distribution.md",
-    "Probability distribution.md",
-    "Sample distribution vs theoretical distribution.md",
     "Law of large numbers.md",
-    "attachments/Pasted image 20251126195904.png",
-    "attachments/Pasted image 20251126195721.png",
     "Venn diagram.md",
     "Conditional probability.md",
     "visualizations.md",
@@ -263,10 +292,6 @@
     "Probability of an event.md",
     "Statistics.md",
     "Decision making processes.md",
-    "DATA.md",
-    "Interquartile range (IQR).md",
-    "Quartiles-kwartyle.md",
-    "box plot.md",
     "attachments/dashboard_design_checklist_final_jjynde.pdf",
     "attachments/Data+Visualizations+-+DataCamp.pdf",
     "attachments/Recording 20250727201044.m4a",
