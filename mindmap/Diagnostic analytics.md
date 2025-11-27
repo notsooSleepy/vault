@@ -16,7 +16,6 @@ aliases:
 ## common techniques
 * [[Drill down analysis]]
 * [[Correlation and regression analysis]]
-* [[Hypothesis testing]]
 * [[Root Cause Analysis (RCA)]]
 # Links
 # References

@@ -16,30 +16,6 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "88f264d93b34e6f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability distribution.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Probability distribution"
-            }
           }
         ]
       }
@@ -223,7 +199,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Poisson distribution.md",
+                    "file": "Hypothesis testing.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -238,7 +214,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Poisson distribution"
+                  "title": "Hypothesis testing"
                 }
               }
             ]
@@ -256,42 +232,42 @@
   },
   "active": "a0d5180e1ed1c737",
   "lastOpenFiles": [
-    "DATA.md",
+    "Hypothesis testing.md",
+    "Pearson correlation coefficient.md",
+    "Confounding variable.md",
+    "Correlation does not equal causation!!.md",
+    "attachments/Pasted image 20251127195628.png",
+    "attachments/Pasted image 20251127195545.png",
+    "attachments/Pasted image 20251127195451.png",
+    "attachments/Pasted image 20251127195316.png",
+    "attachments/Pasted image 20251127195223.png",
+    "attachments/Pasted image 20251127195148.png",
+    "attachments/Pasted image 20251127195110.png",
+    "attachments/Pasted image 20251127195016.png",
+    "attachments/Pasted image 20251127194911.png",
+    "Double-blind randomized controlled trial.md",
+    "Controlled experiments.md",
+    "Diagnostic analytics.md",
+    "Blinding.md",
+    "Randomization.md",
+    "Control group.md",
+    "attachments/Pasted image 20251127192617.png",
+    "Poisson distribution.md",
     "Probability distribution.md",
+    "DATA.md",
     "Sample distribution vs theoretical distribution.md",
     "Measures of chance.md",
-    "Poisson distribution.md",
-    "attachments/Pasted image 20251126214554.png",
-    "attachments/Pasted image 20251126214431.png",
     "Central limit theorem(CLT).md",
-    "attachments/Pasted image 20251126212753.png",
     "Normal Distribution.md",
     "Kurtosis.md",
-    "attachments/Pasted image 20251126211823.png",
     "Skewness.md",
-    "attachments/Pasted image 20251126211556.png",
-    "attachments/Pasted image 20251126210920.png",
-    "attachments/Pasted image 20251126210836.png",
-    "attachments/Pasted image 20251126210816.png",
-    "attachments/Pasted image 20251126210630.png",
     "Binomial distribution.md",
     "Measures of center.md",
     "Measures of spread.md",
-    "attachments/Pasted image 20251126204443.png",
     "Continuous distribution.md",
     "Continuous uniform distribution.md",
     "Bimodal distribution.md",
     "Discrete distribution.md",
-    "Law of large numbers.md",
-    "Venn diagram.md",
-    "Conditional probability.md",
-    "visualizations.md",
-    "Sampling without replacement.md",
-    "Independent probability.md",
-    "Sampling with replacement.md",
-    "Probability of an event.md",
-    "Statistics.md",
-    "Decision making processes.md",
     "attachments/dashboard_design_checklist_final_jjynde.pdf",
     "attachments/Data+Visualizations+-+DataCamp.pdf",
     "attachments/Recording 20250727201044.m4a",
