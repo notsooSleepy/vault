@@ -41,5 +41,23 @@ These variables are commonly used to describe hypothesis test results
 ![[Pasted image 20251127192617.png|600]]
 ## [[Controlled experiments]]
 ## [[Pearson correlation coefficient]]
+## p-value
+* *p*
+	* probability of achieving this result, assuming the null hypothesis is true
+## Significance level ($\alpha$)
+* to reduce the risk of drawing a false conclusion:
+	* set a probability threshold for rejecting the null hypothesis
+* known as $\alpha$ or significance level
+* decided before data collection to minimize bias:
+	* otherwise they could choose a different $\alpha$ to serve their interests
+* a typical threshold is 0.05
+	* 5% chance of wrongly concluding that Chicago residents live longer than Bangkok residents
+* if p <= $\alpha$, reject the null hypothesis
+* these results are said to be statistically significant
+## Type I/II error
+![[Pasted image 20251127201118.png|600]]
+## Drawing a conclusion
+Having set alpha, we can now draw a conclusion based on our sample mean distributions. The overlap of distributions accounts for less than our threshold for alpha, 0.05, meaning the likelihood of the difference in mean life expectancy between the two cities occurring by chance is less than 5%. Therefore, we can reject the null hypothesis and reasonably conclude that the mean life expectancy in Chicago is higher than in Bangkok!
+![[Pasted image 20251127201356.png|600]]
 # Links
 # References

@@ -181,58 +181,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "e600a775e2f73800",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a0dd2632d40ab2e3",
-        "type": "window",
-        "children": [
-          {
-            "id": "5c2ae00c600352a1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "25a113c3d86cf223",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Hypothesis testing.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Hypothesis testing"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 13,
-        "y": 13,
-        "width": 2540,
-        "height": 1414,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "a0d5180e1ed1c737",
   "lastOpenFiles": [
+    "DATA.md",
+    "attachments/Data+Visualizations+-+DataCamp.pdf",
     "Hypothesis testing.md",
+    "attachments/Pasted image 20251127201356.png",
+    "attachments/Pasted image 20251127201118.png",
     "Pearson correlation coefficient.md",
     "Confounding variable.md",
     "Correlation does not equal causation!!.md",
@@ -244,17 +199,14 @@
     "attachments/Pasted image 20251127195148.png",
     "attachments/Pasted image 20251127195110.png",
     "attachments/Pasted image 20251127195016.png",
-    "attachments/Pasted image 20251127194911.png",
     "Double-blind randomized controlled trial.md",
     "Controlled experiments.md",
     "Diagnostic analytics.md",
     "Blinding.md",
     "Randomization.md",
     "Control group.md",
-    "attachments/Pasted image 20251127192617.png",
     "Poisson distribution.md",
     "Probability distribution.md",
-    "DATA.md",
     "Sample distribution vs theoretical distribution.md",
     "Measures of chance.md",
     "Central limit theorem(CLT).md",
@@ -267,9 +219,7 @@
     "Continuous distribution.md",
     "Continuous uniform distribution.md",
     "Bimodal distribution.md",
-    "Discrete distribution.md",
     "attachments/dashboard_design_checklist_final_jjynde.pdf",
-    "attachments/Data+Visualizations+-+DataCamp.pdf",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",
