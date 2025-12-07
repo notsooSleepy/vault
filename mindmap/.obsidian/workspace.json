@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analytical solutions.md",
+                "file": "VAR Variables.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,7 +44,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Analytical solutions"
+              "title": "VAR Variables"
             }
           }
         ]
@@ -211,8 +211,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6886a9e4f1a8645a",
+  "active": "5042a2f087fa734e",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251207154933.png",
+    "DAX.md",
+    "VAR Variables.md",
+    "CALCULATE.md",
+    "DAX context.md",
+    "calculated column.md",
+    "PowerBi.md",
     "Analytical solutions.md",
     "attachments/Pasted image 20251130134950.png",
     "Analytical question.md",
@@ -243,12 +250,6 @@
     "Diagnostic analytics.md",
     "Blinding.md",
     "Randomization.md",
-    "Control group.md",
-    "Poisson distribution.md",
-    "Probability distribution.md",
-    "Sample distribution vs theoretical distribution.md",
-    "Measures of chance.md",
-    "Central limit theorem(CLT).md",
     "attachments/dashboard_design_checklist_final_jjynde.pdf",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
