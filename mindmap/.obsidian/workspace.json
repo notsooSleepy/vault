@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VAR Variables.md",
+                "file": "CALENDARAUTO().md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,7 +44,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "VAR Variables"
+              "title": "CALENDARAUTO()"
             }
           }
         ]
@@ -211,15 +211,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5042a2f087fa734e",
+  "active": "6886a9e4f1a8645a",
   "lastOpenFiles": [
-    "attachments/Pasted image 20251207154933.png",
+    "pixel-perfect.md",
+    "PowerBi.md",
+    "CALENDARAUTO().md",
+    "attachments/Pasted image 20251207193447.png",
+    "date.md",
+    "CALENDAR().md",
+    "attachments/Pasted image 20251207193331.png",
     "DAX.md",
     "VAR Variables.md",
+    "attachments/Pasted image 20251207154933.png",
     "CALCULATE.md",
     "DAX context.md",
     "calculated column.md",
-    "PowerBi.md",
     "Analytical solutions.md",
     "attachments/Pasted image 20251130134950.png",
     "Analytical question.md",
@@ -242,14 +248,8 @@
     "attachments/Pasted image 20251127195628.png",
     "attachments/Pasted image 20251127195545.png",
     "attachments/Pasted image 20251127195451.png",
-    "attachments/Pasted image 20251127195316.png",
-    "attachments/Pasted image 20251127195223.png",
-    "attachments/Pasted image 20251127195148.png",
     "Double-blind randomized controlled trial.md",
     "Controlled experiments.md",
-    "Diagnostic analytics.md",
-    "Blinding.md",
-    "Randomization.md",
     "attachments/dashboard_design_checklist_final_jjynde.pdf",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",

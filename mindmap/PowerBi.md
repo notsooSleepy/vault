@@ -7,6 +7,8 @@ aliases:
 # PowerBi
 ## [[visualizations]]
 ## [[dashboards]]
+## [[pixel-perfect]]
+
 [[drilling down]]
 [[filtering]]
 

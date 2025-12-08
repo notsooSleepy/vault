@@ -10,6 +10,7 @@ aliases:
 ## [[DAX context]]
 ## [[CALCULATE]]
 ## [[VAR Variables]]
+## [[date]]
 
 # Links
 # References
