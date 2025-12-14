@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CALENDARAUTO().md",
+                "file": "cognitive load.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,7 +44,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CALENDARAUTO()"
+              "title": "cognitive load"
             }
           }
         ]
@@ -211,11 +211,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6886a9e4f1a8645a",
+  "active": "5042a2f087fa734e",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251208212909.png",
+    "attachments/Pasted image 20251208212852.png",
+    "attachments/Pasted image 20251208212811.png",
+    "attachments/Pasted image 20251208212751.png",
+    "emotional response.md",
+    "cognitive load.md",
     "pixel-perfect.md",
-    "PowerBi.md",
     "CALENDARAUTO().md",
+    "dashboards.md",
+    "PowerBi.md",
     "attachments/Pasted image 20251207193447.png",
     "date.md",
     "CALENDAR().md",
@@ -243,13 +250,6 @@
     "attachments/Pasted image 20251127201356.png",
     "attachments/Pasted image 20251127201118.png",
     "Pearson correlation coefficient.md",
-    "Confounding variable.md",
-    "Correlation does not equal causation!!.md",
-    "attachments/Pasted image 20251127195628.png",
-    "attachments/Pasted image 20251127195545.png",
-    "attachments/Pasted image 20251127195451.png",
-    "Double-blind randomized controlled trial.md",
-    "Controlled experiments.md",
     "attachments/dashboard_design_checklist_final_jjynde.pdf",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",

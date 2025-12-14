@@ -5,6 +5,6 @@ aliases:
 ---
 2025-12-08 20:39
 # Pixel-perfect
-
+## [[emotional response]]
 # Links
 # References
