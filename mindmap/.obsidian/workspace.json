@@ -16,8 +16,57 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "769a91cbecaba9f1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
+            "id": "6d33c5fd78b8079f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
+            "id": "5e8fefaa7941216f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
+            "id": "204c788691a0de70",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "408d9a3bfee40d96",
@@ -211,14 +260,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5042a2f087fa734e",
+  "active": "204c788691a0de70",
   "lastOpenFiles": [
+    "cognitive load.md",
     "attachments/Pasted image 20251208212909.png",
     "attachments/Pasted image 20251208212852.png",
     "attachments/Pasted image 20251208212811.png",
     "attachments/Pasted image 20251208212751.png",
     "emotional response.md",
-    "cognitive load.md",
     "pixel-perfect.md",
     "CALENDARAUTO().md",
     "dashboards.md",
@@ -248,7 +297,6 @@
     "attachments/Data+Visualizations+-+DataCamp.pdf",
     "Hypothesis testing.md",
     "attachments/Pasted image 20251127201356.png",
-    "attachments/Pasted image 20251127201118.png",
     "Pearson correlation coefficient.md",
     "attachments/dashboard_design_checklist_final_jjynde.pdf",
     "attachments/Recording 20250727201044.m4a",
