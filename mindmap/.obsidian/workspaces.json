@@ -6,49 +6,33 @@
         "type": "split",
         "children": [
           {
-            "id": "c02e10ce8daf695b",
+            "id": "3135cd71aa0884d2",
             "type": "tabs",
-            "dimension": 44.248704663212436,
             "children": [
               {
-                "id": "306dcab94cad8e0a",
+                "id": "e055dbf6cf94472e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6c26decad762cb07",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b9aebbd7af0b0695",
                 "type": "leaf",
                 "state": {
                   "type": "graph",
                   "state": {},
                   "icon": "lucide-git-fork",
                   "title": "Graph view"
-                }
-              }
-            ]
-          },
-          {
-            "id": "eb90dc0551703a26",
-            "type": "tabs",
-            "dimension": 55.751295336787564,
-            "children": [
-              {
-                "id": "2c8f4d0b6a8277c3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Deep learning.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Deep learning"
                 }
               }
             ]
@@ -70,7 +54,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": " ",
+                    "query": "",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -109,7 +93,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 245.5
+        "width": 246.5
       },
       "right": {
         "id": "36adca8208cb8685",
@@ -192,7 +176,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           }
         ],
         "direction": "horizontal",
@@ -207,16 +191,16 @@
           "daily-notes:Open today's daily note": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
+          "switcher:Open quick switcher": false,
+          "workspaces:Manage workspace layouts": false,
           "obsidian-excalidraw-plugin:New drawing": false,
           "obsidian-git:Open Git source control": false,
           "obsidian-kanban:Create new board": false,
-          "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-          "switcher:Open quick switcher": false,
-          "workspaces:Manage workspace layouts": false
+          "obsidian-kindle-plugin:Sync your Kindle highlights": false
         }
       },
-      "active": "2c8f4d0b6a8277c3",
-      "mtime": "2025-11-17T20:18:13+01:00"
+      "active": "b9aebbd7af0b0695",
+      "mtime": "2026-04-23T18:36:50+02:00"
     }
   },
   "active": "main"

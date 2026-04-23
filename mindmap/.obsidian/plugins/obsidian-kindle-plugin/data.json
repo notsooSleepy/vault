@@ -2,9 +2,9 @@
   "amazonRegion": "global",
   "highlightsFolder": "Clippings",
   "lastSyncMode": "amazon",
-  "isLoggedIn": false,
+  "isLoggedIn": true,
   "syncOnBoot": false,
   "downloadBookMetadata": false,
-  "lastSyncDate": "2025-05-11T16:44:36.780Z",
+  "lastSyncDate": "2026-04-23T16:38:16.648Z",
   "fileNameTemplate": "{{authorsLastNames}}-{{title}}"
 }

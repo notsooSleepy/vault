@@ -3,7 +3,7 @@ tags:
   - baby
 aliases:
 ---
-```lua
+f```lua
 	vim.keymap.set("n", "<leader>rs", "<cmd>source ~/.config/nvim/lua/custom/plugins/luasnip.lua<CR>"),
 ```
 When you configure a snippet file you need number of local variables:
