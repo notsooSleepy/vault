@@ -16,4 +16,4 @@ aliases:
 [[firewall]]
 [[helpers]]
 [[commands]]
-
+[[linux_tricks]]

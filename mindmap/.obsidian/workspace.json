@@ -4,20 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "3135cd71aa0884d2",
+        "id": "017b469c84861bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "e055dbf6cf94472e",
+            "id": "89210a62c504df08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "views.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "views"
+            }
+          },
+          {
+            "id": "ad7fb10a655b88ab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "a6b20b224621dca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "setup notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "setup notes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +113,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -181,34 +230,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "e055dbf6cf94472e",
+  "active": "a6b20b224621dca1",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260622192731.png",
+    "attachments/Pasted image 20260622192306.png",
+    "Homelab.md",
+    "setup notes.md",
+    "views.md",
+    "attachments/Pasted image 20260613123028.png",
+    "SQL.md",
+    "queries.md",
+    "schema.md",
+    "data types.md",
+    "flavors.md",
+    "tables.md",
+    "SQL Server.md",
+    "rclone proton.md",
+    "linux_tricks.md",
+    "LINUX.md",
+    "pacman -Qi.md",
+    "pacman.md",
+    "Untitled 1.md",
+    "Arch.md",
+    "fonts.md",
+    "Clippings/-CSAPP_2016.md",
+    "Clippings/-bglcs_a4_c_1.md",
+    "Clippings",
     "Untitled.base",
     "Untitled Kanban.md",
     "screenshot region.md",
     "VAR Variables.md",
     "xz.md",
     "Zero-shot learning.md",
-    "xargs.md",
-    "windows image.md",
-    "Word embeddings.md",
-    "wikiman.md",
-    "which.md",
-    "weirdos.md",
-    "vimrc.md",
-    "What really matters.md",
-    "wc.md",
-    "visualizations.md",
-    "Variance-wariacja.md",
-    "Unstructured.md",
-    "uname.md",
-    "ufw.md",
-    "udev.md",
-    "Ubuntu.md",
-    "type.md",
-    "Types of data.md",
-    "tutorials.md",
-    "tree maps.md",
     "attachments/Recording 20260329121259.m4a",
     "attachments/Pasted image 20251208212909.png",
     "attachments/Pasted image 20251208212852.png",
@@ -218,16 +271,13 @@
     "attachments/Pasted image 20251207193331.png",
     "attachments/Pasted image 20251207154933.png",
     "attachments/Pasted image 20251130134950.png",
-    "attachments/Pasted image 20251130130705.png",
     "attachments/Data+Visualizations+-+DataCamp.pdf",
-    "attachments/Pasted image 20251127201356.png",
     "attachments/dashboard_design_checklist_final_jjynde.pdf",
     "attachments/Recording 20250727201044.m4a",
     "zettelkasten",
     "Untitled.canvas",
     "Debian.md~",
     "Chats",
-    "Clippings",
-    "attachments/Recording 20250123043546.m4a"
+    "Clippings"
   ]
 }

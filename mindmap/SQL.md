@@ -12,5 +12,6 @@ aliases:
 [[schema]]
 [[queries]]
 [[flavors]]
+[[views]]
 
 # References

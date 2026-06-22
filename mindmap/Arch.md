@@ -7,6 +7,7 @@ aliases:
 # Arch
 https://archlinux.org/
 
+[[pacman]]
 
 [[dolphin default app]]
 [[screenshot region]]
