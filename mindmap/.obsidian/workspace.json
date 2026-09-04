@@ -32,22 +32,12 @@
             }
           },
           {
-            "id": "ad7fb10a655b88ab",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "a6b20b224621dca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setup notes.md",
+                "file": "dolphin default app.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "setup notes"
+              "title": "dolphin default app"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +109,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,10 +221,11 @@
   },
   "active": "a6b20b224621dca1",
   "lastOpenFiles": [
+    "setup notes.md",
+    "dd.md",
     "attachments/Pasted image 20260622192731.png",
     "attachments/Pasted image 20260622192306.png",
     "Homelab.md",
-    "setup notes.md",
     "views.md",
     "attachments/Pasted image 20260613123028.png",
     "SQL.md",
@@ -270,7 +260,6 @@
     "attachments/Pasted image 20251207193447.png",
     "attachments/Pasted image 20251207193331.png",
     "attachments/Pasted image 20251207154933.png",
-    "attachments/Pasted image 20251130134950.png",
     "attachments/Data+Visualizations+-+DataCamp.pdf",
     "attachments/dashboard_design_checklist_final_jjynde.pdf",
     "attachments/Recording 20250727201044.m4a",
